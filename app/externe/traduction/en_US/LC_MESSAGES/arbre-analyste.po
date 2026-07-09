@@ -1,0 +1,2050 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2015-03-27 17:50+Paris, Madrid\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+# Traduction des dates
+#: .\classes\dessin.py:103
+msgid "%d/%m/%y à %H:%M"
+msgstr "%y/%m/%d at %H:%M"
+
+#: .\classes\dessin.py:103
+msgid "Entrée"
+msgstr "Enter"
+
+#: .\classes\dessin.py:103
+msgid "Suppr"
+msgstr "Del"
+
+#: .\classes\dessin.py:106
+msgid "Porte par défaut"
+msgstr "Default gate"
+
+#: .\classes\dessin.py:107
+msgid "Sélectionner toute la branche"
+msgstr "Select the entire branch"
+
+#: .\classes\dessin.py:110
+msgid "Remonter aux transferts"
+msgstr "Up to transfers"
+
+#: .\classes\dessin.py:111
+msgid "Créer un transfert"
+msgstr "Create a transfer"
+
+#: .\classes\dessin.py:113 .\classes\fenetreBdd.py:77
+#: .\classes\fenetreCalculerAutomatique.py:77
+#: .\classes\fenetreCalculsProgrammes.py:95
+#: .\classes\fenetreCalculsProgrammes.py:526
+#: .\classes\fenetreCalculsProgrammes.py:616 .\classes\fenetreXfta.py:79
+msgid "Calculer"
+msgstr "Compute"
+
+#: .\classes\dessin.py:115
+msgid "Insérer un saut de page"
+msgstr "Insert a page break"
+
+#: .\classes\dessin.py:128
+msgid "Positionner sur la hauteur"
+msgstr "Position the height"
+
+#: .\classes\dessin.py:129
+msgid "Positionner sur la largeur"
+msgstr "Position the width"
+
+#: .\classes\dessin.py:130
+msgid "Positionner automatiquement"
+msgstr "Automatically position"
+
+#: .\classes\dessin.py:133
+msgid "Aller à la porte"
+msgstr "Go to the gate"
+
+#: .\classes\dessin.py:134
+msgid "Déployer le transfert"
+msgstr "Deploy transfer"
+
+#: .\classes\dessin.py:137
+msgid "Dissocier"
+msgstr "Dissociate"
+
+#: .\classes\dessin.py:140
+msgid "Attacher"
+msgstr "Join"
+
+#: .\classes\dessin.py:141
+msgid "Détacher"
+msgstr "Detach"
+
+#: .\classes\dessin.py:144 .\classes\fenetrePrincipale.py:182
+msgid "Copier"
+msgstr "Copy"
+
+#: .\classes\dessin.py:145 .\classes\fenetrePrincipale.py:183
+msgid "Couper"
+msgstr "Cut"
+
+#: .\classes\dessin.py:148 .\classes\fenetreCalculsProgrammes.py:91
+#: .\classes\fenetreCausesCommunes.py:121
+#: .\classes\fenetreParametresNommes.py:126 .\classes\fenetrePrincipale.py:186
+#: .\classes\fenetrePrincipale.py:195 .\classes\fenetrePrincipale.py:564
+#: .\classes\fenetreScenarios.py:292
+msgid "Supprimer"
+msgstr "Remove"
+
+#: .\classes\dessin.py:707 .\classes\dessin.py:799 .\classes\dessin.py:904
+msgid "Suppression d'éléments"
+msgstr "Removing items"
+
+#: .\classes\dessin.py:731
+msgid "Des transferts pointent vers %i porte(s) sélectionnée(s).\n\nSouhaitez-vous continuer ?"
+msgstr "Transfers point to %i selected gate(s).\n\nWould you like to continue?"
+
+#: .\classes\exportationGraphique.py:67
+msgid "Projet: %s"
+msgstr "Project: %s"
+
+#: .\classes\exportationGraphique.py:68
+msgid "Nom: %s"
+msgstr "Name: %s"
+
+#: .\classes\exportationGraphique.py:69
+msgid "Page %i/%i"
+msgstr "Page %i/%i"
+
+#: .\classes\exportationGraphique.py:70
+msgid "Entreprise: %s"
+msgstr "Company: %s"
+
+#: .\classes\exportationGraphique.py:71
+msgid "Auteur: %s"
+msgstr "Author: %s"
+
+#: .\classes\exportationGraphique.py:72
+msgid "Version: %s"
+msgstr "Version: %s"
+
+#: .\classes\exportationGraphique.py:73
+msgid "Créé le: %s"
+msgstr "Created on: %s"
+
+#: .\classes\exportationGraphique.py:74
+msgid "Modifié le: %s"
+msgstr "Last changed: %s"
+
+#: .\classes\exportationGraphique.py:75
+msgid "Arbre Analyste - version %s - 2014-15"
+msgstr "Arbre Analyste - version %s - 2014-15"
+
+#: .\classes\exportationGraphique.py:220
+msgid "Exportations graphiques"
+msgstr "Export diagram"
+
+#: .\classes\exportationGraphique.py:227
+msgid "Page(s) à exporter:"
+msgstr "Page(s) to export:"
+
+#: .\classes\exportationGraphique.py:231
+msgid "Page actuelle"
+msgstr "Current page"
+
+#: .\classes\exportationGraphique.py:232
+msgid "Toutes les pages"
+msgstr "All pages"
+
+#: .\classes\exportationGraphique.py:232
+msgid "Ne pas exporter"
+msgstr "Don't export"
+
+#: .\classes\exportationGraphique.py:238
+msgid "Format d'export:"
+msgstr "Export format:"
+
+#: .\classes\exportationGraphique.py:240
+msgid "Vectoriel haute qualité"
+msgstr "Vector high quality"
+
+#: .\classes\exportationGraphique.py:241
+msgid "HTML haute qualité"
+msgstr "High quality HTML"
+
+#: .\classes\exportationGraphique.py:242
+msgid "Image GIF"
+msgstr "Image GIF"
+
+#: .\classes\exportationGraphique.py:243
+msgid "Image PNG"
+msgstr "Image PNG"
+
+#: .\classes\exportationGraphique.py:244
+msgid "Image JPEG"
+msgstr "Image JPEG"
+
+#: .\classes\exportationGraphique.py:254
+#: .\classes\fenetreListeElementsDeBase.py:100
+#: .\classes\fenetreListeEvenementsMaisons.py:90
+#: .\classes\fenetreListePortes.py:98 .\classes\fenetrePrincipale.py:164
+msgid "Exporter"
+msgstr "Export"
+
+#: .\classes\exportationGraphique.py:260
+msgid "Enregistrer l'export graphique"
+msgstr "Save diagram"
+
+#: .\classes\exportationGraphique.py:260
+msgid "Images"
+msgstr "Images"
+
+#: .\classes\exportationGraphique.py:281
+msgid "Ce format n'est pas compatible avec la version d'Internet Explorer que vous utilisez. Veuillez utiliser un navigateur plus récent tel que Mozilla Firefox, Google Chrome, Apple Safari ou Microsoft Internet Explorer version 9 ou supérieure."
+msgstr "This format is not compatible with the version of Internet Explorer you are using. Please use a more recent browser such as Mozilla Firefox, Google Chrome, Apple Safari, or Microsoft Internet Explorer 9 or higher."
+
+#: .\classes\exportationGraphique.py:321
+msgid "Exportation graphique"
+msgstr "Export diagram"
+
+#: .\classes\exportationGraphique.py:321
+msgid "Exportation graphique terminée."
+msgstr "Graphic export is complete."
+
+#: .\classes\fenetreApropos.py:46 .\classes\fenetrePrincipale.py:244
+msgid "À propos"
+msgstr "About"
+
+#: .\classes\fenetreApropos.py:51
+msgid "Arbre Analyste - version %s\n\nLogiciel d'analyse des performances de\nSûreté de fonctionnement par calculs\nd'arbres de défaillances\n\nwww.arbre-analyste.fr\n\nEmmanuel CLEMENT\n<emmanuel.clement.2012@utt.fr>"
+msgstr "Arbre Analyste - version %s\n\nAdvanced software for fault tree analysis.\n\nwww.arbre-analyste.fr\n\nEmmanuel CLEMENT\n<emmanuel.clement.2012@utt.fr>"
+
+#: .\classes\fenetreAproposXfta.py:46 .\classes\fenetrePrincipale.py:245
+msgid "À propos de XFTA"
+msgstr "About XFTA"
+
+#: .\classes\fenetreBdd.py:51
+msgid "Moteur de calculs exacts - MCEP"
+msgstr "Exact calculations engine - MCEP"
+
+#: .\classes\fenetreBdd.py:59 .\classes\fenetreCalculerAutomatique.py:59
+#: .\classes\fenetreCalculsProgrammes.py:75 .\classes\fenetreXfta.py:61
+msgid "Temps de mission:"
+msgstr "Mission time:"
+
+#: .\classes\fenetreBdd.py:64 .\classes\fenetreCalculerAutomatique.py:64
+#: .\classes\fenetreCalculsProgrammes.py:81 .\classes\fenetreXfta.py:66
+msgid "Porte de tête:"
+msgstr "Top gate:"
+
+#: .\classes\fenetreBdd.py:72 .\classes\fenetreCalculerAutomatique.py:72
+#: .\classes\fenetreCalculsProgrammes.py:87 .\classes\fenetreXfta.py:74
+msgid "Limite:"
+msgstr "Limit:"
+
+#: .\classes\fenetreBdd.py:94
+msgid "Veuillez patienter, le calcul est en cours..."
+msgstr "Please wait, the calculation is in progress ..."
+
+#: .\classes\fenetreBdd.py:104 .\classes\fenetreBdd.py:132
+#: .\classes\fenetreBdd.py:137 .\classes\fenetreBdd.py:142
+#: .\classes\fenetreBdd.py:169 .\classes\fenetreBdd.py:198
+#: .\classes\fenetreBdd.py:267
+msgid "Moteur de calculs MCEP"
+msgstr "Calculation engine MCEP"
+
+#: .\classes\fenetreBdd.py:104 .\classes\fenetreCalculerAutomatique.py:103
+#: .\classes\fenetreXfta.py:139
+msgid "Calcul en cours..."
+msgstr "Calculating ..."
+
+#: .\classes\fenetreBdd.py:132 .\classes\fenetreCalculerAutomatique.py:131
+#: .\classes\fenetreCalculsProgrammes.py:122
+#: .\classes\fenetreCalculsProgrammes.py:270 .\classes\fenetreXfta.py:165
+msgid "Le temps de mission doit être supérieur à 0."
+msgstr "Mission time must be greater than 0."
+
+#: .\classes\fenetreBdd.py:137 .\classes\fenetreCalculerAutomatique.py:135
+#: .\classes\fenetreCalculsProgrammes.py:126
+#: .\classes\fenetreCalculsProgrammes.py:274 .\classes\fenetreXfta.py:171
+msgid "Temps de mission non valide."
+msgstr "Invalid mission time."
+
+#: .\classes\fenetreBdd.py:142 .\classes\fenetreCalculerAutomatique.py:139
+#: .\classes\fenetreCalculsProgrammes.py:130
+#: .\classes\fenetreCalculsProgrammes.py:134 .\classes\fenetreXfta.py:177
+msgid "Une porte de tête doit être sélectionnée"
+msgstr "A top gate must be selected"
+
+#: .\classes\fenetreBdd.py:169 .\classes\fenetreCalculerAutomatique.py:209
+#: .\classes\fenetreXfta.py:217
+msgid "Limite des calculs non valide."
+msgstr "Invalid calculation limit."
+
+#: .\classes\fenetreBdd.py:198 .\classes\fenetreCalculerAutomatique.py:238
+#: .\classes\fenetreCalculsProgrammes.py:339 .\classes\fenetreXfta.py:250
+msgid "Un calcul est déjà en cours,\npatientez le temps que le premier calcul se termine."
+msgstr "A calculation is already underway.\nWait the time that the first calculation ends."
+
+#: .\classes\fenetreBdd.py:207 .\classes\fenetreCalculerAutomatique.py:248
+#: .\classes\fenetreCalculsProgrammes.py:343 .\classes\fenetreXfta.py:261
+msgid "Le modèle ne peut pas être calculé.\n\nCela peut être du à une boucle engendrée par un mauvais usage des transferts."
+msgstr "The model can not be calculated.\n\nThis may be due to a loop caused by misuse of transfers."
+
+#: .\classes\fenetreBdd.py:265
+msgid "Moteur de calculs par diagrammes de décision binaires"
+msgstr "Binary decision diagrams engine"
+
+#: .\classes\fenetreBdd.py:265
+msgid "Taille de mémoire dépassée."
+msgstr "Memory size exceeded."
+
+#: .\classes\fenetreCalculerAutomatique.py:51
+msgid "Calculer automatiquement"
+msgstr "Compute automatically"
+
+#: .\classes\fenetreCalculerAutomatique.py:103
+#: .\classes\fenetreCalculerAutomatique.py:148
+msgid "Calculs automatiques"
+msgstr "Automatic calculations"
+
+#: .\classes\fenetreCalculerAutomatique.py:131
+#: .\classes\fenetreCalculerAutomatique.py:135
+#: .\classes\fenetreCalculerAutomatique.py:139
+#: .\classes\fenetreCalculerAutomatique.py:209
+#: .\classes\fenetreCalculerAutomatique.py:238
+#: .\classes\fenetreCalculerAutomatique.py:287
+#: .\classes\fenetreCalculsProgrammes.py:339
+#: .\classes\fenetreCalculsProgrammes.py:742
+#: .\classes\fenetreCalculsProgrammes.py:744 .\classes\fenetreXfta.py:53
+#: .\classes\fenetreXfta.py:165 .\classes\fenetreXfta.py:171
+#: .\classes\fenetreXfta.py:177 .\classes\fenetreXfta.py:217
+#: .\classes\fenetreXfta.py:250 .\classes\fenetreXfta.py:416
+#: .\classes\fenetreXfta.py:418
+msgid "Moteur de calculs XFTA"
+msgstr "XFTA calculations engine"
+
+#: .\classes\fenetreCalculerAutomatique.py:148
+#: .\classes\fenetreCalculsProgrammes.py:287 .\classes\fenetreXfta.py:188
+msgid "Porte de tête inexistante."
+msgstr "Top gate nonexistent."
+
+#: .\classes\fenetreCalculsProgrammes.py:55
+#: .\classes\fenetreCalculsProgrammes.py:122
+#: .\classes\fenetreCalculsProgrammes.py:126
+#: .\classes\fenetreCalculsProgrammes.py:130
+#: .\classes\fenetreCalculsProgrammes.py:134
+#: .\classes\fenetreCalculsProgrammes.py:140
+#: .\classes\fenetreCalculsProgrammes.py:145
+#: .\classes\fenetreCalculsProgrammes.py:153
+#: .\classes\fenetreCalculsProgrammes.py:219
+#: .\classes\fenetreCalculsProgrammes.py:270
+#: .\classes\fenetreCalculsProgrammes.py:274
+#: .\classes\fenetreCalculsProgrammes.py:278
+#: .\classes\fenetreCalculsProgrammes.py:287
+#: .\classes\fenetreCalculsProgrammes.py:373
+#: .\classes\fenetreCalculsProgrammes.py:739
+#: .\classes\fenetrePrincipale.py:238 .\classes\fenetreXfta.py:188
+msgid "Calculs programmés"
+msgstr "Batch Analyses"
+
+#: .\classes\fenetreCalculsProgrammes.py:59
+msgid "Liste des calculs programmés"
+msgstr "List of batch analyses"
+
+#: .\classes\fenetreCalculsProgrammes.py:70
+#: .\classes\fenetreCausesCommunes.py:85
+#: .\classes\fenetreElementProprietes.py:135
+#: .\classes\fenetreElementProprietes.py:160
+#: .\classes\fenetreGenererScenarios.py:64
+#: .\classes\fenetreParametresNommes.py:97 .\classes\fenetreScenarios.py:276
+msgid "Nom:"
+msgstr "Name:"
+
+#: .\classes\fenetreCalculsProgrammes.py:93
+#: .\classes\fenetreCausesCommunes.py:123
+#: .\classes\fenetreParametresNommes.py:128
+msgid "Modifier"
+msgstr "Change"
+
+#: .\classes\fenetreCalculsProgrammes.py:97
+msgid "Générer un rapport"
+msgstr "Generate Report"
+
+#: .\classes\fenetreCalculsProgrammes.py:101
+#: .\classes\fenetreCausesCommunes.py:128
+#: .\classes\fenetreParametresNommes.py:133 .\classes\fenetreScenarios.py:294
+msgid "Créer"
+msgstr "Create"
+
+#: .\classes\fenetreCalculsProgrammes.py:140
+msgid "La limite de calcul n'est pas correcte."
+msgstr "The calculation limit is not correct."
+
+#: .\classes\fenetreCalculsProgrammes.py:145
+#: .\classes\fenetreCalculsProgrammes.py:153
+msgid "Un calcul du même nom existe déjà"
+msgstr "A calculation with the same name already exists"
+
+#: .\classes\fenetreCalculsProgrammes.py:165
+msgid "Souhaitez-vous supprimer ce calcul programmé ?"
+msgstr "Would you like to remove this programmed calculation?"
+
+#: .\classes\fenetreCalculsProgrammes.py:165
+msgid "Suppression"
+msgstr "Remove"
+
+#: .\classes\fenetreCalculsProgrammes.py:219
+msgid "La porte sélectionnée reste introuvable."
+msgstr "The selected gate is not found."
+
+#: .\classes\fenetreCalculsProgrammes.py:229
+msgid "Création d'un rapport"
+msgstr "Creating a Report"
+
+#: .\classes\fenetreCalculsProgrammes.py:237
+msgid "Quel type de rapport souhaitez-vous ?"
+msgstr "What kind of report do you want?"
+
+#: .\classes\fenetreCalculsProgrammes.py:241
+msgid "Rapport brut"
+msgstr "Simple report"
+
+#: .\classes\fenetreCalculsProgrammes.py:242
+msgid "Ce format vous permet d'importer dans un logiciel\nde type tableur l'ensemble des résultats des calculs."
+msgstr "This format allows you to import to a spreadsheet\nsoftware all calculation results."
+
+#: .\classes\fenetreCalculsProgrammes.py:244
+msgid "Ce format vous permet de récupérer les résultats des\ncalculs formatés afin de les inclure dans un rapport."
+msgstr "This format allows you to import to a word processor\nsoftware all calculation results."
+
+#: .\classes\fenetreCalculsProgrammes.py:246
+msgid "Créer le rapport"
+msgstr "Create Report"
+
+#: .\classes\fenetreCalculsProgrammes.py:252
+msgid "Enregistrer le rapport"
+msgstr "Save Report"
+
+#: .\classes\fenetreCalculsProgrammes.py:373
+#: .\classes\fenetreCalculsProgrammes.py:739
+#: .\classes\fenetreListeElementsDeBase.py:137
+#: .\classes\fenetreListeEvenementsMaisons.py:123
+#: .\classes\fenetreListePortes.py:133
+msgid "Fichier en cours d'utilisation par un autre programme."
+msgstr "File in use by another program."
+
+#: .\classes\fenetreCalculsProgrammes.py:410
+#: .\classes\fenetreCalculsProgrammes.py:415
+#: .\classes\fenetreCalculsProgrammes.py:423
+#: .\classes\fenetreCalculsProgrammes.py:688
+#: .\classes\fenetreCalculsProgrammes.py:698
+#: .\classes\fenetreCalculsProgrammes.py:709
+msgid "Ordre"
+msgstr "Order"
+
+#: .\classes\fenetreCalculsProgrammes.py:410
+#: .\classes\fenetreCalculsProgrammes.py:688
+msgid "Quantité"
+msgstr "Quantity"
+
+#: .\classes\fenetreCalculsProgrammes.py:415
+#: .\classes\fenetreCalculsProgrammes.py:423
+#: .\classes\fenetreCalculsProgrammes.py:490
+#: .\classes\fenetreCalculsProgrammes.py:512
+#: .\classes\fenetreCalculsProgrammes.py:604
+#: .\classes\fenetreCalculsProgrammes.py:698
+#: .\classes\fenetreCalculsProgrammes.py:709
+msgid "Evènement"
+msgstr "Event"
+
+#: .\classes\fenetreCalculsProgrammes.py:415
+#: .\classes\fenetreCalculsProgrammes.py:423
+#: .\classes\fenetreCalculsProgrammes.py:490
+#: .\classes\fenetreCalculsProgrammes.py:512
+#: .\classes\fenetreCalculsProgrammes.py:604
+#: .\classes\fenetreCalculsProgrammes.py:698
+#: .\classes\fenetreCalculsProgrammes.py:709
+#: .\classes\fenetreListeElementsDeBase.py:71
+#: .\classes\fenetreListeElementsDeBase.py:142
+#: .\classes\fenetreListeEvenementsMaisons.py:71
+#: .\classes\fenetreListeEvenementsMaisons.py:129
+#: .\classes\fenetreListePortes.py:71 .\classes\fenetreListePortes.py:139
+#: .\classes\fenetreRechercher.py:91
+msgid "Description"
+msgstr "Description"
+
+#: .\classes\fenetreCalculsProgrammes.py:415
+#: .\classes\fenetreCalculsProgrammes.py:423
+#: .\classes\fenetreCalculsProgrammes.py:698
+#: .\classes\fenetreCalculsProgrammes.py:709
+msgid "N°"
+msgstr "N°"
+
+#: .\classes\fenetreCalculsProgrammes.py:415
+#: .\classes\fenetreCalculsProgrammes.py:423
+#: .\classes\fenetreCalculsProgrammes.py:698
+#: .\classes\fenetreCalculsProgrammes.py:709
+msgid "Pourcents"
+msgstr "Percent"
+
+#: .\classes\fenetreCalculsProgrammes.py:415
+#: .\classes\fenetreCalculsProgrammes.py:698
+#: .\classes\fenetreCalculsProgrammes.py:709 .\classes\fenetreXfta.py:343
+msgid "Probabilité"
+msgstr "Probability"
+
+#: .\classes\fenetreCalculsProgrammes.py:423
+msgid "probabilité"
+msgstr "probability"
+
+#: .\classes\fenetreCalculsProgrammes.py:458
+msgid "Informations générales"
+msgstr "General information"
+
+#: .\classes\fenetreCalculsProgrammes.py:459
+msgid "Auteur"
+msgstr "Author"
+
+#: .\classes\fenetreCalculsProgrammes.py:459
+msgid "Limite"
+msgstr "Limit"
+
+#: .\classes\fenetreCalculsProgrammes.py:459
+msgid "Nom du calcul"
+msgstr "Calculation name"
+
+#: .\classes\fenetreCalculsProgrammes.py:459
+msgid "Projet"
+msgstr "Project"
+
+#: .\classes\fenetreCalculsProgrammes.py:459
+msgid "Société"
+msgstr "Society"
+
+#: .\classes\fenetreCalculsProgrammes.py:459
+msgid "Version"
+msgstr "Version"
+
+#: .\classes\fenetreCalculsProgrammes.py:459 .\classes\fenetreXfta.py:341
+msgid "Porte de tête"
+msgstr "Top gate"
+
+#: .\classes\fenetreCalculsProgrammes.py:459 .\classes\fenetreXfta.py:342
+msgid "Temps de mission"
+msgstr "Mission time"
+
+#: .\classes\fenetreCalculsProgrammes.py:465
+msgid "Résultats"
+msgstr "Results"
+
+#: .\classes\fenetreCalculsProgrammes.py:468
+msgid "Sommaire"
+msgstr "Summary"
+
+#: .\classes\fenetreCalculsProgrammes.py:470
+msgid "Coupes les plus contributrices"
+msgstr "The most important min cuts"
+
+#: .\classes\fenetreCalculsProgrammes.py:470
+msgid "Niveau de SIL"
+msgstr "SIL level"
+
+#: .\classes\fenetreCalculsProgrammes.py:470
+msgid "Simulation de l'impact de la variation de la probabilité des évènements de base"
+msgstr "Simulation of the effect of the basic events probability variation"
+
+#: .\classes\fenetreCalculsProgrammes.py:470
+#: .\classes\fenetreCalculsProgrammes.py:474
+msgid "Analyse du niveau de confiance"
+msgstr "Confidence level analysis"
+
+#: .\classes\fenetreCalculsProgrammes.py:470
+#: .\classes\fenetreCalculsProgrammes.py:486
+msgid "Facteurs d'importances"
+msgstr "Importance factors"
+
+#: .\classes\fenetreCalculsProgrammes.py:470
+#: .\classes\fenetreCalculsProgrammes.py:508
+msgid "Paramètres des évènements de base"
+msgstr "Basic events parameters"
+
+#: .\classes\fenetreCalculsProgrammes.py:470
+#: .\classes\fenetreCalculsProgrammes.py:520
+msgid "Simulation de la marge de chaque évènement de base vis-à-vis d'un objectif"
+msgstr "Simulation of the margin of each basic event vis-à-vis a target"
+
+#: .\classes\fenetreCalculsProgrammes.py:470
+#: .\classes\fenetreCalculsProgrammes.py:620 .\classes\fenetreXfta.py:119
+msgid "Probabilités"
+msgstr "Probabilities"
+
+#: .\classes\fenetreCalculsProgrammes.py:470
+#: .\classes\fenetreCalculsProgrammes.py:647
+msgid "Fréquences et fiabilités"
+msgstr "Frequencies and reliabilities"
+
+#: .\classes\fenetreCalculsProgrammes.py:470
+#: .\classes\fenetreCalculsProgrammes.py:684
+msgid "Analyse qualitative"
+msgstr "Qualitative Analysis"
+
+#: .\classes\fenetreCalculsProgrammes.py:470
+#: .\classes\fenetreCalculsProgrammes.py:694
+msgid "Coupes d'ordre 1"
+msgstr "Minimal cuts of order 1"
+
+#: .\classes\fenetreCalculsProgrammes.py:475
+msgid "Le tableau ci-après contient les résultats de l'analyse de sensibilité permettant d'appréhender le niveau de confiance de la probabilité de l'évènement redouté."
+msgstr "The table below contains the results of the sensitivity analysis to assess the level of confidence in the top gate probability."
+
+#: .\classes\fenetreCalculsProgrammes.py:477
+msgid "Analyse de sensibilité"
+msgstr "Sensitivity analysis"
+
+#: .\classes\fenetreCalculsProgrammes.py:481
+msgid "Ecart type:"
+msgstr "Standard deviation:"
+
+#: .\classes\fenetreCalculsProgrammes.py:481
+msgid "Ecart type"
+msgstr "Standard deviation"
+
+#: .\classes\fenetreCalculsProgrammes.py:481
+msgid "Facteur d'erreur"
+msgstr "Error factor"
+
+#: .\classes\fenetreCalculsProgrammes.py:481
+msgid "Facteur d'erreur:"
+msgstr "Error factor:"
+
+#: .\classes\fenetreCalculsProgrammes.py:481
+msgid "Intervalle de confiance:"
+msgstr "Confidence interval:"
+
+#: .\classes\fenetreCalculsProgrammes.py:481
+msgid "Intervalle de confiance"
+msgstr "Confidence interval"
+
+#: .\classes\fenetreCalculsProgrammes.py:481
+msgid "Moyenne:"
+msgstr "Average:"
+
+#: .\classes\fenetreCalculsProgrammes.py:487
+msgid "Le tableau ci-après contient les facteurs d'importances de chacun des évènements de base contribuant à l'évènement redouté."
+msgstr "The table below contains the magnitudes of each of the basic factors of events contributing to the dreaded event."
+
+#: .\classes\fenetreCalculsProgrammes.py:490
+msgid "CIF"
+msgstr "CIF"
+
+#: .\classes\fenetreCalculsProgrammes.py:490
+msgid "DIF"
+msgstr "DIF"
+
+#: .\classes\fenetreCalculsProgrammes.py:490
+msgid "MIF"
+msgstr "MIF"
+
+#: .\classes\fenetreCalculsProgrammes.py:490
+msgid "Occurrences"
+msgstr "Occurrences"
+
+#: .\classes\fenetreCalculsProgrammes.py:490
+msgid "RS Sensibility"
+msgstr "RS Sensibility"
+
+#: .\classes\fenetreCalculsProgrammes.py:509
+msgid "Le tableau ci-après contient les paramètres de chacun des évènements de base participant à l'évènement redouté."
+msgstr "The following table contains the settings for each of the basic events involved in the dreaded event."
+
+#: .\classes\fenetreCalculsProgrammes.py:512
+#: .\classes\fenetreListeElementsDeBase.py:79
+#: .\classes\fenetreListeElementsDeBase.py:142
+msgid "Loi"
+msgstr "Law"
+
+#: .\classes\fenetreCalculsProgrammes.py:521
+msgid "Le tableau ci-après vous permet de calculer directement la nouvelle probabilité ainsi que la marge de chaque évènement de base en fonction d'un nouvel objectif à atteindre."
+msgstr "The table below allows you to directly calculate the new probability and the margin of each basic event based on a new goal."
+
+#: .\classes\fenetreCalculsProgrammes.py:524
+msgid "Equirépartir la marge"
+msgstr "Well-balanced margin"
+
+#: .\classes\fenetreCalculsProgrammes.py:525
+msgid "Equi-répartir la marge"
+msgstr "Well-balanced margin"
+
+#: .\classes\fenetreCalculsProgrammes.py:604
+msgid "Ancienne probabilité"
+msgstr "Previous probability"
+
+#: .\classes\fenetreCalculsProgrammes.py:604
+msgid "Marge %"
+msgstr "Margin %"
+
+#: .\classes\fenetreCalculsProgrammes.py:604
+msgid "Nouvelle probabilité"
+msgstr "New probability"
+
+#: .\classes\fenetreCalculsProgrammes.py:610
+msgid "Simulation de l'impact de la variation de la probabilité de chaque évènement de base"
+msgstr "Simulation of the effect of the variation of each basic event probability"
+
+#: .\classes\fenetreCalculsProgrammes.py:611
+msgid "Le formulaire ci-après vous permet de simuler dynamiquement l'impact du changement de la probabilité d'un évènement de base sur la probabilité de l'évènement redouté."
+msgstr "The following form allows you to dynamically simulate the impact of the change in the probability of a basic event based on the probability of the dreaded event."
+
+#: .\classes\fenetreCalculsProgrammes.py:621
+msgid "Le tableau ci-après contient l'évolution de la probabilité en fonction du temps."
+msgstr "The table below gives the evolution of the probability function of time."
+
+#: .\classes\fenetreCalculsProgrammes.py:624
+msgid "PFDavg"
+msgstr "PFDavg"
+
+#: .\classes\fenetreCalculsProgrammes.py:624
+msgid "Pr/PFD"
+msgstr "Pr/PFD"
+
+#: .\classes\fenetreCalculsProgrammes.py:624
+#: .\classes\fenetreCalculsProgrammes.py:651
+msgid "date"
+msgstr "date"
+
+#: .\classes\fenetreCalculsProgrammes.py:633
+msgid "Niveaux de SIL"
+msgstr "SIL levels"
+
+#: .\classes\fenetreCalculsProgrammes.py:634
+msgid "Le tableau ci-après contient l'évolution du niveau de SIL du système en fonction du temps."
+msgstr "The table below presents the evolution of the SIL level of the system over time."
+
+#: .\classes\fenetreCalculsProgrammes.py:637
+msgid "SIL"
+msgstr "SIL"
+
+#: .\classes\fenetreCalculsProgrammes.py:637
+msgid "lower-bound"
+msgstr "lower-bound"
+
+#: .\classes\fenetreCalculsProgrammes.py:637
+msgid "ratio"
+msgstr "ratio"
+
+#: .\classes\fenetreCalculsProgrammes.py:637
+msgid "sojourn-time"
+msgstr "sojourn-time"
+
+#: .\classes\fenetreCalculsProgrammes.py:637
+msgid "upper-bound"
+msgstr "upper-bound"
+
+#: .\classes\fenetreCalculsProgrammes.py:648
+msgid "Le tableau ci-après contient les évolutions du lambda système, de la fiabilité système ainsi que de la PFH système."
+msgstr "The table below presents the evolution of the lambda system reliability system and the system PFH."
+
+#: .\classes\fenetreCalculsProgrammes.py:651
+msgid "CFI"
+msgstr "CFI"
+
+#: .\classes\fenetreCalculsProgrammes.py:651
+msgid "CFIavg"
+msgstr "CFIavg"
+
+#: .\classes\fenetreCalculsProgrammes.py:651
+msgid "PFH"
+msgstr "PFH"
+
+#: .\classes\fenetreCalculsProgrammes.py:662
+msgid "Défiabilité système:"
+msgstr "System unreliability:"
+
+#: .\classes\fenetreCalculsProgrammes.py:664
+msgid "Lambda système:"
+msgstr "Lambda system:"
+
+#: .\classes\fenetreCalculsProgrammes.py:672
+msgid "Nombre de pannes:"
+msgstr "Number of failures:"
+
+#: .\classes\fenetreCalculsProgrammes.py:685
+msgid "Le tableau ci-après contient le nombre total de coupes par ordre."
+msgstr "The following table contains the total number of min cuts per order."
+
+#: .\classes\fenetreCalculsProgrammes.py:695
+msgid "Le tableau ci-après contient toutes les coupes d'ordre 1."
+msgstr "The table below contains all the min cuts of order 1."
+
+#: .\classes\fenetreCalculsProgrammes.py:705 .\classes\fenetreXfta.py:118
+msgid "Coupes minimales"
+msgstr "Minimal cuts set"
+
+#: .\classes\fenetreCalculsProgrammes.py:706
+msgid "Le tableau ci-après contient les 100 coupes les plus contributrices à l'évènement redouté."
+msgstr "The following table contains the 100 most contributors minimal cutsets."
+
+#: .\classes\fenetreCalculsProgrammes.py:731
+msgid "Probabilité:"
+msgstr "Probability:"
+
+#: .\classes\fenetreCalculsProgrammes.py:734
+msgid "MTTR système:"
+msgstr "System MTTR"
+
+#: .\classes\fenetreCalculsProgrammes.py:742
+msgid "Création du rapport terminée."
+msgstr "Creating the report completed."
+
+#: .\classes\fenetreCausesCommunes.py:51
+msgid "Gestion des causes communes de défaillances"
+msgstr "Management of common cause failures"
+
+#: .\classes\fenetreCausesCommunes.py:61
+msgid "Liste des causes communes"
+msgstr "List of common causes"
+
+#: .\classes\fenetreCausesCommunes.py:68
+msgid "Edition des causes communes de défaillances"
+msgstr "Edit common cause failures"
+
+#: .\classes\fenetreCausesCommunes.py:89
+#: .\classes\fenetreElementProprietes.py:77
+#: .\classes\fenetreParametresNommes.py:107
+msgid "Description:"
+msgstr "Description:"
+
+#: .\classes\fenetreCausesCommunes.py:97
+#: .\classes\fenetreElementProprietes.py:105
+msgid "Type:"
+msgstr "Type:"
+
+#: .\classes\fenetreCausesCommunes.py:110
+msgid "Loi:"
+msgstr "Law:"
+
+#: .\classes\fenetreCausesCommunes.py:150
+msgid "Facteur %i:"
+msgstr "Factor% i:"
+
+#: .\classes\fenetreCausesCommunes.py:253
+msgid "Une cause commune du même nom existe déjà."
+msgstr "A common cause of the same name already exists."
+
+#: .\classes\fenetreCausesCommunes.py:253
+#: .\classes\fenetreCausesCommunes.py:256
+msgid "Création d'une cause commune de défaillances"
+msgstr "Creating a common cause failures"
+
+#: .\classes\fenetreCausesCommunes.py:256
+msgid "Un nom est nécessaire pour la création d'une cause commune."
+msgstr "A name is required for the creation of a common cause."
+
+#: .\classes\fenetreCausesCommunes.py:284
+msgid "Souhaitez-vous réellement supprimer la cause commune ?"
+msgstr "Do you really want to remove the common cause?"
+
+#: .\classes\fenetreCausesCommunes.py:284
+msgid "Suppression de la cause commune"
+msgstr "Remove the common cause"
+
+#: .\classes\fenetreElementProprietes.py:58
+msgid "Propriété de la porte \"%s\""
+msgstr "Property of the gate \"%s\""
+
+#: .\classes\fenetreElementProprietes.py:60
+msgid "Propriété du transfert \"%s\""
+msgstr "Property of the transfer \"%s\""
+
+#: .\classes\fenetreElementProprietes.py:62
+msgid "Propriété de l'évènement \"%s\""
+msgstr "Property of the event \"%s\""
+
+#: .\classes\fenetreElementProprietes.py:62
+msgid "Propriété de l'illustration \"%s\""
+msgstr "Property of the illustration \"%s\""
+
+#: .\classes\fenetreElementProprietes.py:64
+msgid "Paramètres généraux"
+msgstr "General Settings"
+
+#: .\classes\fenetreElementProprietes.py:66
+msgid "Porte supérieure:"
+msgstr "Upper gate:"
+
+#: .\classes\fenetreElementProprietes.py:85
+msgid "Paramètres de la porte"
+msgstr "Parameters of the gate"
+
+#: .\classes\fenetreElementProprietes.py:85
+msgid "Paramètres de l'illustration"
+msgstr "Parameters of the illustration"
+
+#: .\classes\fenetreElementProprietes.py:85
+msgid "Alignement:"
+msgstr "Alignment:"
+
+#: .\classes\fenetreElementProprietes.py:85
+msgid "Couleurs:"
+msgstr "Colors:"
+
+#: .\classes\fenetreElementProprietes.py:113
+msgid "Paramètre K:"
+msgstr "Parameter K:"
+
+#: .\classes\fenetreElementProprietes.py:118
+msgid "Paramètres du transfert"
+msgstr "Transfer Settings"
+
+#: .\classes\fenetreElementProprietes.py:124
+msgid "Destination:"
+msgstr "Destination:"
+
+#: .\classes\fenetreElementProprietes.py:130
+msgid "Paramètres de l'évenement maison"
+msgstr "Parameters of the house event"
+
+#: .\classes\fenetreElementProprietes.py:149
+#: .\classes\fenetreParametresNommes.py:102
+msgid "Valeur:"
+msgstr "Value:"
+
+#: .\classes\fenetreElementProprietes.py:155
+msgid "Paramètres de l'évenement"
+msgstr "Parameters of the event"
+
+#: .\classes\fenetreElementProprietes.py:174
+msgid "Loi de probabilité:"
+msgstr "Law of probability:"
+
+#: .\classes\fenetreElementProprietes.py:184
+#: .\classes\fenetreElementProprietes.py:225
+#: .\classes\fenetrePageProprietes.py:59 .\classes\fenetrePrincipale.py:150
+#: .\classes\fenetreProjetProprietes.py:87 .\classes\fenetreScenarios.py:285
+msgid "Enregistrer"
+msgstr "Save"
+
+#: .\classes\fenetreElementProprietes.py:219
+#: .\classes\fenetreElementProprietes.py:231
+#: .\classes\fenetreElementProprietes.py:233
+#: .\classes\fenetreElementProprietes.py:385
+#: .\classes\fenetreElementProprietes.py:390
+msgid "Nouveau nom"
+msgstr "New name"
+
+#: .\classes\fenetreElementProprietes.py:221
+msgid "Entrez un nouveau nom:"
+msgstr "Enter a new name:"
+
+#: .\classes\fenetreElementProprietes.py:231
+msgid "Ce nom est déjà utilisé."
+msgstr "This name is already in use."
+
+#: .\classes\fenetreElementProprietes.py:233
+#: .\classes\fenetreElementProprietes.py:385
+msgid "Il est très fortement recommandé de ne pas utiliser de caractères spéciaux dans les noms."
+msgstr "It is strongly recommended not to use special characters in names."
+
+#: .\classes\fenetreElementProprietes.py:289
+msgid "Paramètre de l'élément"
+msgstr "Parameter of the element"
+
+#: .\classes\fenetreElementProprietes.py:289
+msgid "Souhaitez-vous réellement changer le nom de l'élément de base ?"
+msgstr "Do you really want to change the name of the basic event?"
+
+#: .\classes\fenetreElementProprietes.py:305
+msgid "Changement de nom"
+msgstr "Change of name"
+
+#: .\classes\fenetreElementProprietes.py:305
+msgid "Erreur, le nom est utilisé par un élément de type différent."
+msgstr "Error, the name is used by a different type of element."
+
+#: .\classes\fenetreElementProprietes.py:390
+msgid "Une porte du même nom existe déjà."
+msgstr "A gate of the same name already exists."
+
+#: .\classes\fenetreElementProprietes.py:396
+msgid "Erreur de saisie du paramètre K."
+msgstr "K parameter input error"
+
+#: .\classes\fenetreElementProprietes.py:396
+msgid "Gestion des paramètres"
+msgstr "Settings Management"
+
+#: .\classes\fenetreGenererScenarios.py:53 .\classes\fenetrePrincipale.py:227
+msgid "Générer des scénarios"
+msgstr "Generate scenarios"
+
+#: .\classes\fenetreGenererScenarios.py:56
+msgid "Action:"
+msgstr "Action:"
+
+#: .\classes\fenetreGenererScenarios.py:58
+msgid "Enregistrer l'état actuel des arbres pour y revenir par la suite"
+msgstr "Save the current state of the fault trees and come back later"
+
+#: .\classes\fenetreGenererScenarios.py:59
+msgid "Rendre tous les évènements de base non réparables (GLM->Exponentielle)"
+msgstr "Make all unrepairable basic events (GLM->Exponential)"
+
+#: .\classes\fenetreGenererScenarios.py:60
+msgid "Rendre tous les évènements de base réparables (Exponentielle->GLM)"
+msgstr "Make all repairable basic events (Exponential->GLM)"
+
+#: .\classes\fenetreGenererScenarios.py:68
+msgid "Générer le scénario"
+msgstr "Generate the script"
+
+#: .\classes\fenetreGenererScenarios.py:121
+msgid "Le scénario a bien été généré et se trouve maintenant\ndans la liste des scénarios du projet"
+msgstr "The scenario has been generated and\nis now in the scenarios project list."
+
+#: .\classes\fenetreGenererScenarios.py:121
+#: .\classes\fenetreGenererScenarios.py:124
+#: .\classes\fenetreGenererScenarios.py:127 .\classes\fenetreScenarios.py:348
+#: .\classes\fenetreScenarios.py:351
+msgid "Création d'un scénario"
+msgstr "Creating a Scenario"
+
+#: .\classes\fenetreGenererScenarios.py:124 .\classes\fenetreScenarios.py:348
+msgid "Un scénario du même nom existe déjà."
+msgstr "A scenario of the same name already exists."
+
+#: .\classes\fenetreGenererScenarios.py:127 .\classes\fenetreScenarios.py:351
+msgid "Un nom est nécessaire pour la création d'un scénario."
+msgstr "A name is required for the creation of a scenario."
+
+#: .\classes\fenetreImportationOpenpsa.py:54
+msgid "Importer dans ce projet"
+msgstr "Import this project"
+
+#: .\classes\fenetreImportationOpenpsa.py:57
+msgid "Configuration de l'importation:"
+msgstr "Import configuration:"
+
+#: .\classes\fenetreImportationOpenpsa.py:59
+msgid "Importer les paramètres nommés:"
+msgstr "Import generic models/parameters:"
+
+#: .\classes\fenetreImportationOpenpsa.py:61
+#: .\classes\fenetreImportationOpenpsa.py:74
+msgid "Ecraser si déjà existant"
+msgstr "Overwrite if existing"
+
+#: .\classes\fenetreImportationOpenpsa.py:62
+#: .\classes\fenetreImportationOpenpsa.py:75
+msgid "Conserver si déjà existant"
+msgstr "Retain if existing"
+
+#: .\classes\fenetreImportationOpenpsa.py:66
+#: .\classes\fenetreImportationOpenpsa.py:79
+msgid "Renommer si déjà existant"
+msgstr "Rename if existing"
+
+#: .\classes\fenetreImportationOpenpsa.py:71
+msgid "Importer les pages:"
+msgstr "Import pages:"
+
+#: .\classes\fenetreImportationOpenpsa.py:73
+msgid "Ne pas importer"
+msgstr "Do not import"
+
+#: .\classes\fenetreImportationOpenpsa.py:84
+msgid "Ouvrir le projet à importer"
+msgstr "Open the project to import"
+
+#: .\classes\fenetreImportationOpenpsa.py:93
+msgid "Ouvrir un projet"
+msgstr "Open Project"
+
+#: .\classes\fenetreListeElementsDeBase.py:53
+#: .\classes\fenetrePrincipale.py:218
+msgid "Liste des évènements de base"
+msgstr "List of basic events"
+
+#: .\classes\fenetreListeElementsDeBase.py:63
+#: .\classes\fenetreListeElementsDeBase.py:142
+#: .\classes\fenetreListeEvenementsMaisons.py:63
+#: .\classes\fenetreListeEvenementsMaisons.py:128
+#: .\classes\fenetreListePortes.py:63 .\classes\fenetreListePortes.py:138
+#: .\classes\fenetreRechercher.py:83
+msgid "Nom"
+msgstr "Name"
+
+#: .\classes\fenetreListeElementsDeBase.py:131
+#: .\classes\fenetreListeEvenementsMaisons.py:117
+#: .\classes\fenetreListePortes.py:127
+msgid "Exporter la liste"
+msgstr "Export List"
+
+#: .\classes\fenetreListeElementsDeBase.py:137
+#: .\classes\fenetreListeEvenementsMaisons.py:123
+#: .\classes\fenetreListePortes.py:133
+msgid "Exportation"
+msgstr "Export"
+
+#: .\classes\fenetreListeEvenementsMaisons.py:53
+#: .\classes\fenetrePrincipale.py:219
+msgid "Liste des évènements maisons"
+msgstr "List of house events"
+
+#: .\classes\fenetreListeEvenementsMaisons.py:79
+#: .\classes\fenetreListeEvenementsMaisons.py:130
+msgid "Etat"
+msgstr "State"
+
+#: .\classes\fenetreListePortes.py:53 .\classes\fenetrePrincipale.py:217
+msgid "Liste des portes"
+msgstr "List of gates"
+
+#: .\classes\fenetreListePortes.py:79 .\classes\fenetreListePortes.py:140
+msgid "Logique"
+msgstr "Logic"
+
+#: .\classes\fenetreListePortes.py:87
+msgid "K"
+msgstr "K"
+
+#: .\classes\fenetreListePortes.py:141
+msgid "K/N"
+msgstr "K/N"
+
+#: .\classes\fenetreNettoyerProjet.py:50 .\classes\fenetreNettoyerProjet.py:53
+#: .\classes\fenetreNettoyerProjet.py:75 .\classes\fenetrePrincipale.py:224
+msgid "Nettoyer le projet"
+msgstr "Clean Project"
+
+#: .\classes\fenetreNettoyerProjet.py:56
+msgid "Cette fenêtre vous permet de supprimer tous les paramètres\nnommés qui ne sont pas ou plus utilisés dans le projet."
+msgstr "This window allows you to delete all generic models/parameters\nthat are not or no longer used in the fault tree."
+
+#: .\classes\fenetreNettoyerProjet.py:58
+msgid "Nettoyer"
+msgstr "Clean Up"
+
+#: .\classes\fenetreNettoyerProjet.py:75
+msgid "Tous les paramètres non utilisés ont été supprimés."
+msgstr "All unused parameters have been removed."
+
+#: .\classes\fenetrePageProprietes.py:50
+msgid "Propriété de la page"
+msgstr "Page property"
+
+#: .\classes\fenetrePageProprietes.py:52
+msgid "Paramètres de la page"
+msgstr "Page settings"
+
+#: .\classes\fenetrePageProprietes.py:54
+msgid "Titre de la page:"
+msgstr "Page title:"
+
+#: .\classes\fenetrePageProprietes.py:67
+msgid "Nom de page"
+msgstr "Page name"
+
+#: .\classes\fenetrePageProprietes.py:67
+msgid "Une page du même nom existe déjà."
+msgstr "A page with the same name already exists."
+
+#: .\classes\fenetreGroupeProprietes.py:50
+msgid "Propriété du groupe"
+msgstr "Group property"
+
+#: .\classes\fenetreGroupeProprietes.py:50
+msgid "Paramètres du groupe"
+msgstr "Group settings"
+
+#: .\classes\fenetreGroupeProprietes.py:50
+msgid "Nom du groupe:"
+msgstr "Group name:"
+
+#: .\classes\fenetreGroupeProprietes.py:50
+msgid "Groupe:"
+msgstr "Group:"
+
+#: .\classes\fenetreGroupeProprietes.py:50
+msgid "Nom du groupe"
+msgstr "Group name"
+
+#: .\classes\fenetreGroupeProprietes.py:50
+msgid "Un groupe du même nom existe déjà."
+msgstr "A group with the same name already exists."
+
+#: .\classes\fenetreParametresNommes.py:68
+#: .\classes\fenetreParametresNommes.py:229
+#: .\classes\fenetreParametresNommes.py:274
+msgid "Gestion des paramètres nommés"
+msgstr "Management of generic Models/Parameters"
+
+#: .\classes\fenetreParametresNommes.py:73
+msgid "Paramètres disponibles:"
+msgstr "Available parameters:"
+
+#: .\classes\fenetreParametresNommes.py:80
+msgid "Copier dans le presse-papier"
+msgstr "Copy to clipboard"
+
+#: .\classes\fenetreParametresNommes.py:83
+#: .\classes\fenetreParametresNommes.py:141
+#: .\classes\fenetreProjetProprietes.py:64
+msgid "Paramètres"
+msgstr "Settings"
+
+#: .\classes\fenetreParametresNommes.py:114
+msgid "Distribution:"
+msgstr "Distribution:"
+
+#: .\classes\fenetreParametresNommes.py:142
+msgid "Distribution"
+msgstr "Distribution"
+
+#: .\classes\fenetreParametresNommes.py:142
+msgid "Forme:"
+msgstr "Shape:"
+
+#: .\classes\fenetreParametresNommes.py:142
+msgid "Echelle:"
+msgstr "Scale:"
+
+#: .\classes\fenetreParametresNommes.py:142
+msgid "Haut:"
+msgstr "High:"
+
+#: .\classes\fenetreParametresNommes.py:142
+msgid "Bas:"
+msgstr "Low:"
+
+#: .\classes\fenetreParametresNommes.py:229
+#: .\classes\fenetreParametresNommes.py:274
+msgid "Erreur de saisie."
+msgstr "Input error."
+
+#: .\classes\fenetreParametresNommes.py:242
+msgid "Un paramètre nommé du même nom existe déjà."
+msgstr "A generic model/parameter with the same name already exists."
+
+#: .\classes\fenetreParametresNommes.py:242
+#: .\classes\fenetreParametresNommes.py:245
+#: .\classes\fenetreParametresNommes.py:280
+msgid "Création d'un paramètre nommé"
+msgstr "Creating a parameter named"
+
+#: .\classes\fenetreParametresNommes.py:245
+msgid "Un nom est nécessaire pour la création d'un paramètre nommé."
+msgstr "A name is required for the creation of a generic model/parameter."
+
+#: .\classes\fenetreParametresNommes.py:280
+msgid "Un nom est nécessaire pour un paramètre nommé."
+msgstr "A name is required for a generic model/parameter."
+
+#: .\classes\fenetreParametresNommes.py:288
+msgid "Suppression d'un paramètre nommé"
+msgstr "Deleting a generic model/parameter"
+
+#: .\classes\fenetreParametresNommes.py:288
+msgid "Suppression impossible. Le paramètre nommé est en cours d'utilisation."
+msgstr "Can not delete. The named parameter is in use."
+
+#: .\classes\fenetrePrincipale.py:87
+msgid "Arbre Analyste - Logiciel d'analyse de Sûreté de fonctionnement"
+msgstr "Arbre Analyste - Advanced software for fault tree analysis"
+
+#: .\classes\fenetrePrincipale.py:139
+msgid "Fichier"
+msgstr "File"
+
+#: .\classes\fenetrePrincipale.py:140
+msgid "Nouveau"
+msgstr "New"
+
+#: .\classes\fenetrePrincipale.py:143
+msgid "Ouvrir"
+msgstr "Open"
+
+#: .\classes\fenetrePrincipale.py:145
+msgid "Derniers projets"
+msgstr "Recent projects"
+
+#: .\classes\fenetrePrincipale.py:151
+msgid "Enregistrer sous"
+msgstr "Save as"
+
+#: .\classes\fenetrePrincipale.py:155
+msgid "Importer"
+msgstr "Import"
+
+#: .\classes\fenetrePrincipale.py:156 .\classes\fenetrePrincipale.py:165
+msgid "Open-PSA STRICT"
+msgstr "Open-PSA STRICT"
+
+#: .\classes\fenetrePrincipale.py:158
+msgid "Projet Aralia (*.ara, *.dag)"
+msgstr "Aralia fault tree (.ara *, * .dag)"
+
+#: .\classes\fenetrePrincipale.py:159 .\classes\fenetrePrincipale.py:170
+msgid "Projet FT9 (*.ft9x)"
+msgstr "FT9 project (* .ft9x)"
+
+#: .\classes\fenetrePrincipale.py:160
+msgid "Projet RiskSpectrum (*.rsa)"
+msgstr "RiskSpectrum project (* .rsa)"
+
+#: .\classes\fenetrePrincipale.py:166
+msgid "Open-PSA compatible SIMFIA"
+msgstr "SIMFIA Open-PSA "
+
+#: .\classes\fenetrePrincipale.py:167
+msgid "Open-PSA compatible FT9"
+msgstr "FT9 Open-PSA "
+
+#: .\classes\fenetrePrincipale.py:168
+msgid "Open-PSA compatible GRIF"
+msgstr "GRIF Open-PSA"
+
+#: .\classes\fenetrePrincipale.py:171
+msgid "Exporter graphiquement"
+msgstr "Export diagram"
+
+#: .\classes\fenetrePrincipale.py:173
+msgid "Quitter"
+msgstr "Exit"
+
+#: .\classes\fenetrePrincipale.py:176
+msgid "Edition"
+msgstr "Edition"
+
+#: .\classes\fenetrePrincipale.py:177
+msgid "Annuler"
+msgstr "Cancel"
+
+#: .\classes\fenetrePrincipale.py:178
+msgid "Rétablir"
+msgstr "Restore"
+
+#: .\classes\fenetrePrincipale.py:180
+msgid "Sélectionner tout"
+msgstr "Select All"
+
+#: .\classes\fenetrePrincipale.py:184
+msgid "Coller"
+msgstr "Paste"
+
+#: .\classes\fenetrePrincipale.py:189 .\classes\fenetreRechercher.py:107
+msgid "Pages"
+msgstr "Pages"
+
+#: .\classes\fenetrePrincipale.py:194 .\classes\fenetrePrincipale.py:563
+msgid "Editer"
+msgstr "Edit"
+
+#: .\classes\fenetrePrincipale.py:197 .\classes\fenetrePrincipale.py:566
+msgid "Nouvelle page"
+msgstr "New page"
+
+#: .\classes\fenetrePrincipale.py:198 .\classes\fenetrePrincipale.py:567
+msgid "Copier la liste dans le presse-papier"
+msgstr "Copy the list to the clipboard"
+
+#: .\classes\fenetrePrincipale.py:201
+msgid "Zoom"
+msgstr "Zoom"
+
+#: .\classes\fenetrePrincipale.py:206
+msgid "Agrandir"
+msgstr "Zoom in"
+
+#: .\classes\fenetrePrincipale.py:207
+msgid "Réduire"
+msgstr "Zoom out"
+
+#: .\classes\fenetrePrincipale.py:210
+msgid "Données"
+msgstr "Data"
+
+#: .\classes\fenetrePrincipale.py:211 .\classes\fenetreRechercher.py:65
+#: .\classes\fenetreRechercher.py:176
+msgid "Paramètres nommés"
+msgstr "Generic Models/Parameters"
+
+#: .\classes\fenetrePrincipale.py:213
+msgid "Causes communes de défaillances"
+msgstr "Common cause failures"
+
+#: .\classes\fenetrePrincipale.py:215 .\classes\fenetreScenarios.py:268
+msgid "Scénarios"
+msgstr "Scenarios"
+
+#: .\classes\fenetrePrincipale.py:221
+msgid "Importer depuis un autre projet"
+msgstr "Import from another project"
+
+#: .\classes\fenetrePrincipale.py:223
+msgid "Traitements automatisés"
+msgstr "Automated processing"
+
+#: .\classes\fenetrePrincipale.py:225
+msgid "Renommer les éléments"
+msgstr "Rename items"
+
+#: .\classes\fenetrePrincipale.py:226
+msgid "Calculer toutes les portes"
+msgstr "Calculate all gates"
+
+#: .\classes\fenetrePrincipale.py:229 .\classes\fenetreRechercher.py:73
+msgid "Rechercher"
+msgstr "Search For"
+
+#: .\classes\fenetrePrincipale.py:231 .\classes\fenetreProjetProprietes.py:50
+msgid "Propriétés du projet"
+msgstr "Project Properties"
+
+#: .\classes\fenetrePrincipale.py:234
+msgid "Calculs"
+msgstr "Calculations"
+
+#: .\classes\fenetrePrincipale.py:235
+msgid "Calcul exact"
+msgstr "Exact calculation"
+
+#: .\classes\fenetrePrincipale.py:237
+msgid "Calcul ponctuel"
+msgstr "XFTA calculation"
+
+#: .\classes\fenetrePrincipale.py:241
+msgid "Aide"
+msgstr "Help"
+
+#: .\classes\fenetrePrincipale.py:242
+msgid "Aide en ligne"
+msgstr "Online Help"
+
+#: .\classes\fenetrePrincipale.py:242
+msgid "Langue"
+msgstr "Language"
+
+#: .\classes\fenetrePrincipale.py:336 .\classes\fenetrePrincipale.py:351
+#: .\classes\fenetrePrincipale.py:454
+msgid "Enregistrement du projet"
+msgstr "Project registration"
+
+#: .\classes\fenetrePrincipale.py:336 .\classes\fenetrePrincipale.py:351
+#: .\classes\fenetrePrincipale.py:454
+msgid "Souhaitez-vous enregistrer le projet en cours avant de le quitter?"
+msgstr "Would you like to save the current project before leaving?"
+
+#: .\classes\fenetrePrincipale.py:364
+msgid "Ouvrir un projet FT9"
+msgstr "Open FT9 project"
+
+#: .\classes\fenetrePrincipale.py:382
+msgid "Ouverture d'un projet FT9"
+msgstr "Opening an FT9 project "
+
+#: .\classes\fenetrePrincipale.py:382 .\classes\fenetrePrincipale.py:401
+#: .\classes\fenetrePrincipale.py:420 .\classes\fenetrePrincipale.py:439
+msgid "Le fichier n'est pas de bon format."
+msgstr "The file is not in the right format."
+
+#: .\classes\fenetrePrincipale.py:385
+msgid "Ouvrir un arbre RiskSpectrum"
+msgstr "Open RiskSpectrum fault tree"
+
+#: .\classes\fenetrePrincipale.py:401
+msgid "Ouverture d'un arbre RiskSpectrum"
+msgstr "Opening a RiskSpectrum fault tree"
+
+#: .\classes\fenetrePrincipale.py:404
+msgid "Ouvrir un arbre OpenPSA"
+msgstr "Open OpenPSA fault tree"
+
+#: .\classes\fenetrePrincipale.py:420
+msgid "Ouverture d'un arbre Open PSA"
+msgstr "Opening an Open PSA fault tree"
+
+#: .\classes\fenetrePrincipale.py:423
+msgid "Ouvrir un arbre Aralia"
+msgstr "Open Aralia Fault tree"
+
+#: .\classes\fenetrePrincipale.py:439
+msgid "Ouverture d'un arbre Aralia"
+msgstr "Opening an Aralia fault tree"
+
+#: .\classes\fenetrePrincipale.py:442
+msgid "Enregistrer un projet FT9"
+msgstr "Save a FT9 project (*.ft9x)"
+
+#: .\classes\fenetrePrincipale.py:459
+msgid "Ouvrir un document"
+msgstr "Open a document"
+
+#: .\classes\fenetrePrincipale.py:488
+msgid "Le fichier projet ne peut pas être ouvert.\nVous utilisez peut-être une version ancienne d'Arbre-Analyste.\nAllez sur www.arbre-analyste.fr pour télécharger librement une version plus récente."
+msgstr "The project file can not be opened.\nYou may be using an older version of Arbre-Analyste.\nGo to www.arbre-analyste.fr to freely download the lastest version."
+
+#: .\classes\fenetrePrincipale.py:488
+msgid "Ouverture de projet"
+msgstr "Open Project"
+
+#: .\classes\fenetrePrincipale.py:535
+msgid "Enregistrer le document"
+msgstr "Save the document"
+
+#: .\classes\fenetrePrincipale.py:581
+msgid "Souhaitez-vous réellement supprimer la page et tous les éléments qui la composent ?"
+msgstr "Do you really want to delete the page and all the elements that compose it?"
+
+#: .\classes\fenetrePrincipale.py:581
+msgid "Suppression de la page"
+msgstr "Remove page"
+
+#: .\classes\fenetrePrincipale.py:677
+msgid "Exporter au format Open-PSA Strict"
+msgstr "Export to Open-PSA Strict"
+
+#: .\classes\fenetrePrincipale.py:689
+msgid "Exporter au format Open-PSA compatible Simfia"
+msgstr "Export to the Simfia software (Open-PSA)"
+
+#: .\classes\fenetrePrincipale.py:701
+msgid "Exporter au format Open-PSA compatible FT9"
+msgstr "Export to the FT9 software (Open-PSA)"
+
+#: .\classes\fenetrePrincipale.py:713
+msgid "Exporter au format Open-PSA compatible GRIF"
+msgstr "Export to the GRIF software (Open-PSA)"
+
+#: .\classes\fenetreProjetProprietes.py:52
+msgid "Statistiques"
+msgstr "Statistics"
+
+#: .\classes\fenetreProjetProprietes.py:55
+msgid "Date de création:\t\t%s"
+msgstr "Creation date:\t\t%s"
+
+#: .\classes\fenetreProjetProprietes.py:56
+msgid "Date de modification:\t%s"
+msgstr "Modification date:\t\t%s"
+
+#: .\classes\fenetreProjetProprietes.py:57
+msgid "Nombre de pages:\t\t%i"
+msgstr "Number of pages:\t\t%i"
+
+#: .\classes\fenetreProjetProprietes.py:58
+msgid "Nombre d'éléments:\t\t%i"
+msgstr "Number of Items:\t\t%i"
+
+#: .\classes\fenetreProjetProprietes.py:59
+msgid " - portes:\t\t\t%i"
+msgstr "- gates:\t\t\t%i"
+
+#: .\classes\fenetreProjetProprietes.py:60
+msgid " - transferts:\t\t%i"
+msgstr " - transfers:\t\t%i"
+
+#: .\classes\fenetreProjetProprietes.py:61
+msgid " - évènements de base:\t%i"
+msgstr " - basic events:\t\t%i"
+
+#: .\classes\fenetreProjetProprietes.py:62
+msgid " - évènements maisons:\t%i"
+msgstr " - house events:\t\t%i"
+
+#: .\classes\fenetreProjetProprietes.py:67
+msgid "Entreprise:"
+msgstr "Company:"
+
+#: .\classes\fenetreProjetProprietes.py:72
+msgid "Auteur:"
+msgstr "Author:"
+
+#: .\classes\fenetreProjetProprietes.py:77
+msgid "Titre:"
+msgstr "Title:"
+
+#: .\classes\fenetreProjetProprietes.py:82
+msgid "Version:"
+msgstr "Version:"
+
+#: .\classes\fenetreRechercher.py:51
+msgid "Rechercher des éléments"
+msgstr "Search for items"
+
+#: .\classes\fenetreRechercher.py:56
+msgid "Formulaire de recherche"
+msgstr "Search Form"
+
+#: .\classes\fenetreRechercher.py:60
+msgid "Rechercher:"
+msgstr "Search For:"
+
+#: .\classes\fenetreRechercher.py:65 .\classes\fenetreRechercher.py:160
+msgid "Evenements de base"
+msgstr "Basic Events"
+
+#: .\classes\fenetreRechercher.py:65 .\classes\fenetreRechercher.py:164
+msgid "Evenements maisons"
+msgstr "House Events"
+
+#: .\classes\fenetreRechercher.py:65 .\classes\fenetreRechercher.py:168
+msgid "Portes"
+msgstr "Gate"
+
+#: .\classes\fenetreRechercher.py:65 .\classes\fenetreRechercher.py:172
+msgid "Transferts"
+msgstr "Transfers"
+
+#: .\classes\fenetreRechercher.py:67
+msgid "Dans:"
+msgstr "In:"
+
+#: .\classes\fenetreRechercher.py:76
+msgid "Résulats"
+msgstr "Results"
+
+#: .\classes\fenetreRechercher.py:99
+msgid "Type"
+msgstr "Type"
+
+#: .\classes\fenetreRechercher.py:186
+msgid "Evenement de base"
+msgstr "Basic event"
+
+#: .\classes\fenetreRechercher.py:188
+msgid "Porte"
+msgstr "Gate"
+
+#: .\classes\fenetreRechercher.py:190
+msgid "Evenement maison"
+msgstr "House Event"
+
+#: .\classes\fenetreRechercher.py:192
+msgid "Transfert"
+msgstr "Transfer"
+
+#: .\classes\fenetreRenommerAutomatique.py:51
+#: .\classes\fenetreRenommerAutomatique.py:93
+#: .\classes\fenetreRenommerAutomatique.py:97
+#: .\classes\fenetreRenommerAutomatique.py:160
+msgid "Renommer automatiquement"
+msgstr "Rename automatically"
+
+#: .\classes\fenetreRenommerAutomatique.py:54
+msgid "Renommer des éléments:"
+msgstr "Rename items:"
+
+#: .\classes\fenetreRenommerAutomatique.py:59
+msgid "Convention de nommage:"
+msgstr "Naming Convention:"
+
+#: .\classes\fenetreRenommerAutomatique.py:67
+msgid "Renommer les portes"
+msgstr "Rename the gates"
+
+#: .\classes\fenetreRenommerAutomatique.py:68
+msgid "Renommer les évènements de bases"
+msgstr "Rename the basic events"
+
+#: .\classes\fenetreRenommerAutomatique.py:70
+msgid "Renommer"
+msgstr "Rename"
+
+#: .\classes\fenetreRenommerAutomatique.py:93
+#: .\classes\fenetreRenommerAutomatique.py:97
+msgid "Convention de nommage incorrecte."
+msgstr "Incorrect naming convention."
+
+#: .\classes\fenetreRenommerAutomatique.py:160
+msgid "Les éléments ont été renommés."
+msgstr "The items have been renamed."
+
+#: .\classes\fenetreScenarios.py:56
+msgid "[%s] -> aucun élement de sélectionné."
+msgstr "[%s] -> no selected element."
+
+#: .\classes\fenetreScenarios.py:56 .\classes\fenetreScenarios.py:59
+#: .\classes\fenetreScenarios.py:65 .\classes\fenetreScenarios.py:82
+#: .\classes\fenetreScenarios.py:132 .\classes\fenetreScenarios.py:136
+#: .\classes\fenetreScenarios.py:145 .\classes\fenetreScenarios.py:154
+#: .\classes\fenetreScenarios.py:165 .\classes\fenetreScenarios.py:169
+#: .\classes\fenetreScenarios.py:178 .\classes\fenetreScenarios.py:193
+#: .\classes\fenetreScenarios.py:200 .\classes\fenetreScenarios.py:202
+#: .\classes\fenetreScenarios.py:208 .\classes\fenetreScenarios.py:244
+#: .\classes\fenetreScenarios.py:257
+msgid "Erreur"
+msgstr "Error"
+
+#: .\classes\fenetreScenarios.py:59
+msgid "[%s] -> le(s) élément(s) sélectionné(s) ne sont pas des évenements."
+msgstr "[%s] -> element(s) selected are not events."
+
+#: .\classes\fenetreScenarios.py:65
+msgid "[%s] -> la loi '%s' est inconnue."
+msgstr "[%s] -> Law '%s' is unknown."
+
+#: .\classes\fenetreScenarios.py:82
+msgid "[%s] -> paramètre nommé de type %s inexistant."
+msgstr "[%s] -> Generic parameter type %s not existing."
+
+#: .\classes\fenetreScenarios.py:132 .\classes\fenetreScenarios.py:165
+msgid "[%s] -> le sélecteur actuel ne permet pas de modifier les liaisons entre élements."
+msgstr "[%s] -> the current selector does not change the connections between elements."
+
+#: .\classes\fenetreScenarios.py:136 .\classes\fenetreScenarios.py:145
+#: .\classes\fenetreScenarios.py:154 .\classes\fenetreScenarios.py:178
+#: .\classes\fenetreScenarios.py:193
+msgid "[%s] -> la porte parent ne correspond pas."
+msgstr "[%s] -> parent gate does not match."
+
+#: .\classes\fenetreScenarios.py:169
+msgid "[%s] -> une porte doit être renseignée."
+msgstr "[%s] -> a gate has to be filled."
+
+#: .\classes\fenetreScenarios.py:200
+msgid "[%s] -> aucun élément sélectionné."
+msgstr "[%s] -> no items selected."
+
+#: .\classes\fenetreScenarios.py:202
+msgid "[%s] -> l'élément sélectionné ne permet pas de modifier sa logique booléenne."
+msgstr "[%s] -> the selected item does not change its boolean logic."
+
+#: .\classes\fenetreScenarios.py:208
+msgid "[%s] -> la logique '%s' est inconnue."
+msgstr "[%s] -> logic '%s' is unknown."
+
+#: .\classes\fenetreScenarios.py:244
+msgid "Le nom d'un scénario doit êre précisé."
+msgstr "The name of a scenario must be filled."
+
+#: .\classes\fenetreScenarios.py:252
+msgid "Dans le scénario '%s'\n\n"
+msgstr "Scenario '%s'\n\n"
+
+#: .\classes\fenetreScenarios.py:252
+msgid "Exécution du scénario '%s'"
+msgstr "Execution of the scenario '%s'"
+
+#: .\classes\fenetreScenarios.py:257
+msgid "Le scénario '%s' est introuvable."
+msgstr "The scenario '%s' was not found."
+
+#: .\classes\fenetreScenarios.py:265
+msgid "Gestion des scénarios"
+msgstr "Scenario Management"
+
+#: .\classes\fenetreScenarios.py:281
+msgid "Scenario:"
+msgstr "Scenario:"
+
+#: .\classes\fenetreScenarios.py:313 .\classes\fenetreScenarios.py:318
+msgid "Execution d'un scénario"
+msgstr "Execution of a scenario"
+
+#: .\classes\fenetreScenarios.py:318
+msgid "Exécution terminée."
+msgstr "Execution complete."
+
+#: .\classes\fenetreScenarios.py:378
+msgid "Ce nom est déjà utilisé par un scénario."
+msgstr "This name is already used by a scenario."
+
+#: .\classes\fenetreScenarios.py:378 .\classes\fenetreScenarios.py:381
+msgid "Modification d'un scénario"
+msgstr "Edit a Scenario"
+
+#: .\classes\fenetreScenarios.py:381
+msgid "Un nom est nécessaire pour un scénario."
+msgstr "A name is required for a scenario."
+
+#: .\classes\fenetreScenarios.py:385
+msgid "Souhaitez-vous supprimer définitivement le scénario?"
+msgstr "Would you like to permanently remove the scenario?"
+
+#: .\classes\fenetreScenarios.py:385
+msgid "Suppression d'un scénario"
+msgstr "Deleting a scenario"
+
+#: .\classes\fenetreXfta.py:116
+msgid "Résumé"
+msgstr "Executive Summary"
+
+#: .\classes\fenetreXfta.py:117
+msgid "Importance"
+msgstr "Importance"
+
+#: .\classes\fenetreXfta.py:120
+msgid "Sensibilité"
+msgstr "Sensitivity"
+
+#: .\classes\fenetreXfta.py:139
+msgid "Calculs XFTA"
+msgstr "XFTA calculations"
+
+#: .\classes\fenetreXfta.py:344
+msgid "Défiabilité système"
+msgstr "Unreliability system"
+
+#: .\classes\fenetreXfta.py:345
+msgid "Lambda système"
+msgstr "Lambda system"
+
+#: .\classes\fenetreXfta.py:346
+msgid "MTTF système"
+msgstr "MTTF system"
+
+#: .\classes\fenetreXfta.py:347
+msgid "Durée d'indisponibilité"
+msgstr "Downtime"
+
+#: .\classes\fenetreXfta.py:349
+msgid "Système réparable:"
+msgstr "Repairable system:"
+
+#: .\classes\fenetreXfta.py:350
+msgid "   Nombre de pannes"
+msgstr "   Number of failures"
+
+#: .\classes\fenetreXfta.py:351
+msgid "   MTTR système"
+msgstr "   MTTR system"
+
+#: .\classes\fenetreXfta.py:352
+msgid "   MTBF système"
+msgstr "   MTBF system"
+
+#: .\classes\fenetreXfta.py:392
+msgid "Défiabilité"
+msgstr "Unreliability"
+
+#: .\classes\fenetreXfta.py:392
+msgid "Fréquence"
+msgstr "Frequency"
+
+#: .\classes\fenetreXfta.py:392
+msgid "Indisponibilité"
+msgstr "Unavailability"
+
+#: .\classes\fenetreXfta.py:392
+msgid "Indisponibilité moy."
+msgstr "Unavailability avg"
+
+#: .\classes\fenetreXfta.py:392
+msgid "Lambda moy."
+msgstr "Lambda avg"
+
+#: .\classes\fenetreXfta.py:416
+msgid "Taille de mémoire dépassée. Ajoutez une limite aux calculs."
+msgstr "Memory size exceeded. Add a limit to the calculations."
+
+#: .\classes\fenetreCalculsPogrammes.py:243
+msgid "Rapport formaté"
+msgstr "Formatted report"
+
+#: .\classes\dessin.py:146
+msgid "Couleur"
+msgstr "Color"
+
+#: .\classes\dessin.py:146
+msgid "OU"
+msgstr "OR"
+
+#: .\classes\dessin.py:146
+msgid "ET"
+msgstr "AND"
+
+#: .\classes\dessin.py:146
+msgid "NON OU"
+msgstr "NOR"
+
+#: .\classes\dessin.py:146
+msgid "NON ET"
+msgstr "NAND"
+
+#: .\classes\dessin.py:146
+msgid "Constante"
+msgstr "Constant"
+
+#: .\classes\dessin.py:146
+msgid "Exponentielle"
+msgstr "Exponential"
+
+#: .\classes\dessin.py:146
+msgid "GLM"
+msgstr "GLM"
+
+#: .\classes\dessin.py:146
+msgid "Weibull"
+msgstr "Weibull"
+
+#: .\classes\dessin.py:146
+msgid "Réparable (TT)"
+msgstr "Repairable (TT)"
+
+#: .\classes\dessin.py:146
+msgid "Test périodique simple"
+msgstr "Simple periodic test"
+
+#: .\classes\dessin.py:146
+msgid "Test périodique avancé"
+msgstr "Advanced periodic test"
+
+#: .\classes\dessin.py:146
+msgid "Temps"
+msgstr "Time"
+
+#: .\classes\dessin.py:146
+msgid "Moyenne"
+msgstr "Mean"
+
+#: .\classes\dessin.py:146
+msgid "Temps (optionnel)"
+msgstr "Time (optional)"
+
+#: .\classes\dessin.py:146
+msgid "Theta (optionnel)"
+msgstr "Theta (optional)"
+
+#: .\classes\dessin.py:146
+msgid "temps"
+msgstr "Time"
+
+#: .\classes\dessin.py:146
+msgid "probabilite"
+msgstr "probability"
+
+#: .\classes\fenetrePrincipale.py:784
+msgid "Module complémentaire"
+msgstr "Addons"
+
+#: .\classes\fenetrePrincipale.py:784
+msgid "Module installé."
+msgstr "Addon correctly installed."
+
+#: .\classes\fenetrePrincipale.py:784
+msgid "Impossible d'installer le module."
+msgstr "Error, addon not installed."
+
+#: .\classes\fenetrePrincipale.py:784
+msgid "Installer un module"
+msgstr "Install a new addon"
+
+#: .\classes\fenetrePrincipale.py:784
+msgid "Exécuter"
+msgstr "Launch"
+
+#: .\classes\fenetrePrincipale.py:784
+msgid "Désinstaller"
+msgstr "Uninstall"
+
+#: .\classes\fenetrePrincipale.py:784
+msgid "Souhaitez-vous désinstaller le module?"
+msgstr "Do you want to uninstall the addon?"
+
+#: .\classes\fenetrePrincipale.py:784
+msgid "Module désinstallé."
+msgstr "Addon uninstalled."
+
+#: .\classes\fenetrePrincipale.py:784
+msgid "Modules"
+msgstr "Addons"
+
+#: .\classes\fenetrePrincipale.py:784
+msgid "Vrai"
+msgstr "True"
+
+#: .\classes\fenetrePrincipale.py:784
+msgid "Faux"
+msgstr "False"
+
+#: .\classes\fenetrePrincipale.py:268
+msgid "Outil de sélection"
+msgstr "Selection tool"
+
+#: .\classes\fenetrePrincipale.py:268
+msgid "Porte OU"
+msgstr "OR gate"
+
+#: .\classes\fenetrePrincipale.py:268
+msgid "Porte ET"
+msgstr "AND gate"
+
+#: .\classes\fenetrePrincipale.py:268
+msgid "Porte K/N"
+msgstr "K/N gate"
+
+#: .\classes\fenetrePrincipale.py:268
+msgid "Porte NON OU"
+msgstr "NOR gate"
+
+#: .\classes\fenetrePrincipale.py:268
+msgid "Porte NON ET"
+msgstr "NAND gate"
+
+msgid "Souhaitez-vous continuer ?\nLes évènements suivants sont enregistrés dans des causes commaunes de défaillances: "
+msgstr "Do you want to delete the elements ?.\nSome basic events are actually used by common causes of failures: "
+
+#: .\classes\fenetreCausesCommunes.py:260
+msgid "Le nom est trop long."
+msgstr "The name is too long."
+
+#: .\classes\fenetrePrincipale.py:653
+msgid "Supprimer groupe"
+msgstr "Delete group"
+
+#: .\classes\fenetrePrincipale.py:653
+msgid "Nouveau groupe"
+msgstr "New group"
+
+#: .\classes\fenetrePrincipale.py:653
+msgid "Editer groupe"
+msgstr "Edit group"
+
+#: .\classes\fenetrePrincipale.py:653
+msgid "Editer page"
+msgstr "Edit page"
+
+#: .\classes\fenetrePrincipale.py:653
+msgid "Supprimer page"
+msgstr "Delete page"
+
+#: .\classes\fenetrePrincipale.py:653
+msgid "Mettre au premier plan"
+msgstr "Bring to front"
+
+#: .\classes\fenetrePrincipale.py:653
+msgid "Créer un fond de couleur"
+msgstr "Create a background"
+
+#: .\classes\fenetreInstantanes.py:653
+msgid "Instantanés"
+msgstr "Snapshots"
+
+#: .\classes\fenetreInstantanes.py:653
+msgid "Gestion des instantanés"
+msgstr "Management of snapshots"
+
+#: .\classes\fenetreInstantanes.py:653
+msgid "Presse-papier"
+msgstr "Clipboard"
+
+#: .\classes\fenetreInstantanes.py:653
+msgid "Souhaitez-vous supprimer définitivement cet instantané ?"
+msgstr "Do you want to delete this snapshot?"
+
+#: .\classes\fenetreInstantanes.py:653
+msgid "Projet source corrompu"
+msgstr "Corrupted project file"
+
+#: .\classes\fenetreInstantanes.py:653
+msgid "Le projet en cours d'ouverture a subi une action de réparation au niveau de la porte %s."
+msgstr "The open project file has been subject to correction near the %s gate."

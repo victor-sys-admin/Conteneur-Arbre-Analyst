@@ -1,0 +1,10 @@
+# On n'a besoin que du dossier app/ et des scripts dans le contexte de build
+*.pdf
+*.md
+run.sh
+docker-compose.yml
+.git
+.DS_Store
+out
+analyses
+./analyses

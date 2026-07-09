@@ -1,0 +1,1290 @@
+msgid "Evenements de base"
+msgstr "Grund Events"
+
+msgid "Une page du même nom existe déjà."
+msgstr "Eine Seite mit dem gleichen Namen ist bereits vorhanden."
+
+msgid "Niveaux de SIL"
+msgstr "SIL-Stufen"
+
+msgid "Porte NON ET"
+msgstr ""
+
+msgid "Equirépartir la marge"
+msgstr "Equirépartir Marge"
+
+msgid "Titre:"
+msgstr "Titel:"
+
+msgid "Marge %"
+msgstr "Margin%"
+
+msgid "Type:"
+msgstr "Typ:"
+
+msgid "Un nom est nécessaire pour la création d'un scénario."
+msgstr "Ein Name wird für die Schaffung eines Szenarios erforderlich."
+
+msgid "Rapport brut"
+msgstr "Brutto-Verhältnis"
+
+msgid "Création d'un paramètre nommé"
+msgstr "Erstellen eines Parameters mit dem Namen"
+
+msgid "Ne pas importer"
+msgstr "Nicht importieren"
+
+msgid "CFIavg"
+msgstr "CFIavg"
+
+msgid "Le tableau ci-après contient l'évolution du niveau de SIL du système en fonction du temps."
+msgstr "Die nachstehende Tabelle zeigt die Entwicklung der SIL-Level des Systems über die Zeit."
+
+msgid "Projet Aralia (*.ara, *.dag)"
+msgstr "Projekt Aralia (* .ara * .dag)"
+
+msgid "Date de création:\t\t%s"
+msgstr "Erstellungsdatum:\t\%s"
+
+msgid "Paramètres nommés"
+msgstr "Benannte Parameter"
+
+msgid "Arbre Analyste - version %s - 2014-15"
+msgstr "Arbre Analyste - Version %s - 2014-15"
+
+msgid "Niveau de SIL"
+msgstr "SIL-Level"
+
+msgid "Modifier"
+msgstr "Sich Ändern"
+
+msgid "Calculer automatiquement"
+msgstr "Berechnen Sie automatisch"
+
+msgid "Erreur, le nom est utilisé par un élément de type différent."
+msgstr "Fehler, wird der Name durch eine andere Art von Element verwendet."
+
+msgid "Paramètre de l'élément"
+msgstr "Parameter des Elements"
+
+msgid "Entreprise: %s"
+msgstr "Firma: %s"
+
+msgid "Ouverture d'un arbre RiskSpectrum"
+msgstr "Öffnen einer RiskSpectrum Baum"
+
+msgid "Titre de la page:"
+msgstr "Seitentitel:"
+
+msgid "probabilite"
+msgstr ""
+
+msgid "Version"
+msgstr "Version"
+
+msgid "Ouvrir"
+msgstr "Geöffnet"
+
+msgid "Projet: %s"
+msgstr "Projekt: %s"
+
+msgid "Sélectionner tout"
+msgstr "Alle auswählen"
+
+msgid "Couper"
+msgstr "Abschneiden"
+
+msgid "Le tableau ci-après contient toutes les coupes d'ordre 1."
+msgstr "Die folgende Tabelle enthält alle Schnitte der Ordnung 1."
+
+msgid "Suppression impossible. Le paramètre nommé est en cours d'utilisation."
+msgstr "Kann nicht gelöscht werden. Die benannten Parameter verwendet wird."
+
+msgid "Paramètres de la porte"
+msgstr "Parameter der Türe"
+
+msgid "Un paramètre nommé du même nom existe déjà."
+msgstr "Ein Parameter genannt demselben Namen vorhanden ist."
+
+msgid "Open-PSA STRICT"
+msgstr "Open-PSA STRENGER"
+
+msgid "Toutes les pages"
+msgstr "Alle Seiten"
+
+msgid "Copier"
+msgstr "Kopie"
+
+msgid "Enregistrer sous"
+msgstr "Speichern unter"
+
+msgid "Arbre Analyste - Logiciel d'analyse de Sûreté de fonctionnement"
+msgstr "Arbre Analyste - Zuverlässigkeit Analysesoftware"
+
+msgid "Evenement de base"
+msgstr "Grund Ereignis"
+
+msgid "Pr|1"
+msgstr "Pr | 1"
+
+msgid "Supprimer"
+msgstr "Entfernen"
+
+msgid "Enregistrer"
+msgstr "Rekord"
+
+msgid "Résulats"
+msgstr "Ergebnisse"
+
+msgid "Installer un module"
+msgstr ""
+
+msgid "Analyse qualitative"
+msgstr "Qualitative Analysis"
+
+msgid "Le scénario '%s' est introuvable."
+msgstr "Das Skript '%s' wurde nicht gefunden."
+
+msgid "Fréquences et fiabilités"
+msgstr "Frequenzen und Reliabilitäten"
+
+msgid "[%s] -> l'élément sélectionné ne permet pas de modifier sa logique booléenne."
+msgstr "[%s] -> das ausgewählte Element nicht seine Boolesche Logik ändern."
+
+msgid "Porte OU"
+msgstr ""
+
+msgid "Module complémentaire"
+msgstr ""
+
+msgid "Pourcents"
+msgstr "Prozent"
+
+msgid "Défiabilité système:"
+msgstr "System Unzuverlässigkeit:"
+
+msgid "La limite de calcul n'est pas correcte."
+msgstr "Die Berechnung Grenze ist nicht korrekt."
+
+msgid "Positionner sur la largeur"
+msgstr "Positionieren Sie die Breite"
+
+msgid "Moteur de calculs XFTA"
+msgstr "Motor XFTA Berechnungen"
+
+msgid "Ouvrir le projet à importer"
+msgstr "Öffnen Sie das Projekt importieren"
+
+msgid "Nouvelle probabilité"
+msgstr "Neuen Wahrscheinlichkeits"
+
+msgid "Renommer les évènements de bases"
+msgstr "Benennen Sie die Grundlagen der Ereignisse"
+
+msgid "Transfert"
+msgstr "Transfer"
+
+msgid "Ce nom est déjà utilisé par un scénario."
+msgstr "Dieser Name wird bereits von einem Skript verwendet."
+
+msgid "Page(s) à exporter:"
+msgstr "Seite(n) zu exportieren:"
+
+msgid "Ce format n'est pas compatible avec la version d'Internet Explorer que vous utilisez. Veuillez utiliser un navigateur plus récent tel que Mozilla Firefox, Google Chrome, Apple Safari ou Microsoft Internet Explorer version 9 ou supérieure."
+msgstr "Dieses Format ist nicht mit der Version von Internet Explorer Sie verwenden, kompatibel. Bitte verwenden Sie eine neuere Browser wie Mozilla Firefox, Google Chrome, Apple Safari oder Microsoft Internet Explorer 9 oder höher."
+
+msgid "Fichier en cours d'utilisation par un autre programme."
+msgstr "Datei von einem anderen Programm."
+
+msgid "Action:"
+msgstr "Aktion:"
+
+msgid "Coupes d'ordre 1"
+msgstr "Reihenfolge der Abschnitte 1"
+
+msgid "Créer"
+msgstr "Schaffen"
+
+msgid "Fréquence"
+msgstr "Häufigkeit"
+
+msgid "Insérer un saut de page"
+msgstr "Legen Sie einen Seitenumbruch"
+
+msgid "Création d'une cause commune de défaillances"
+msgstr "Erstellen einer gemeinsamer Ursache"
+
+msgid "Exporter au format Open-PSA compatible Simfia"
+msgstr "Exportieren nach Öffnen-PSA-Format kompatibel SIMFIA"
+
+msgid "Souhaitez-vous réellement changer le nom de l'élément de base ?"
+msgstr "Wollen Sie wirklich, um den Namen des Basiselements zu ändern?"
+
+msgid "Le tableau ci-après contient l'évolution de la probabilité en fonction du temps."
+msgstr "Die nachstehende Tabelle gibt die Entwicklung der Wahrscheinlichkeit Funktion der Zeit."
+
+msgid "Nouveau"
+msgstr "Neu"
+
+msgid "Souhaitez-vous continuer ?\nLes évènements suivants sont enregistrés dans des causes commaunes de défaillances: "
+msgstr ""
+
+msgid "Paramètres du transfert"
+msgstr "Übertragungseinstellungen"
+
+msgid "Enregistrer l'export graphique"
+msgstr "Speichern grafischer Export"
+
+msgid "Un nom est nécessaire pour la création d'un paramètre nommé."
+msgstr "Ein Name ist für die Schaffung eines benannten Parameter erforderlich."
+
+msgid "Le scénario a bien été généré et se trouve maintenant\ndans la liste des scénarios du projet"
+msgstr ""
+
+msgid "À propos de XFTA"
+msgstr "Über XFTA"
+
+msgid "Enregistrer l'état actuel des arbres pour y revenir par la suite"
+msgstr "Speichern Sie den aktuellen Zustand der Bäume und später wiederkommen"
+
+msgid "Durée d'indisponibilité"
+msgstr "Ausfallzeit"
+
+msgid "Les éléments ont été renommés."
+msgstr "Die Elemente wurden umbenannt."
+
+msgid "Auteur: %s"
+msgstr "Autor: %s"
+
+msgid "Open-PSA compatible FT9"
+msgstr "Open-PSA-kompatiblen FT9"
+
+msgid "Ecart type:"
+msgstr "Standardabweichung:"
+
+msgid "Couleur"
+msgstr "Farbe"
+
+msgid "Page actuelle"
+msgstr "Diese Seite"
+
+msgid "Enregistrer un projet FT9"
+msgstr "Speichern eines Entwurfs FT9"
+
+msgid "Aide en ligne"
+msgstr "Online-Hilfe"
+
+msgid "Loi:"
+msgstr "Law:"
+
+msgid "Ancienne probabilité"
+msgstr "Probability alt"
+
+msgid "Porte NON OU"
+msgstr ""
+
+msgid "Souhaitez-vous réellement supprimer la cause commune ?"
+msgstr "Wollen Sie wirklich, um die gemeinsame Sache zu entfernen?"
+
+msgid "CFI"
+msgstr "CFI"
+
+msgid "Derniers projets"
+msgstr "Neueste Projekte"
+
+msgid "Portes"
+msgstr "Türen"
+
+msgid "Entrez un nouveau nom:"
+msgstr "Geben Sie einen neuen Namen:"
+
+msgid "NON ET"
+msgstr ""
+
+msgid "Lambda système:"
+msgstr "Lambda-System:"
+
+msgid "Execution d'un scénario"
+msgstr "Ausführung eines Szenarios"
+
+msgid "Désinstaller"
+msgstr ""
+
+msgid "Fichier"
+msgstr "Datei"
+
+msgid "Exporter"
+msgstr "Export"
+
+msgid "Renommer si déjà existant"
+msgstr "Benennen Sie, falls vorhanden"
+
+msgid "Calculer toutes les portes"
+msgstr "Berechnen Sie alle Türen"
+
+msgid "Ouverture d'un arbre Aralia"
+msgstr "Öffnen eines Baum Aralia"
+
+msgid "Etat"
+msgstr "Zustand"
+
+msgid "Créer un transfert"
+msgstr "Erstellen Sie eine Überweisung"
+
+msgid "Causes communes de défaillances"
+msgstr "Gemeinsamer Ursache"
+
+msgid "Test périodique simple"
+msgstr ""
+
+msgid "Paramètres de l'évenement maison"
+msgstr "Parameter der Veranstaltung nach Hause"
+
+msgid "Ouvrir un document"
+msgstr "Öffnen Sie ein Dokument"
+
+msgid "N°"
+msgstr "N°"
+
+msgid "Ouvrir un projet"
+msgstr "Projekt öffnen"
+
+msgid "Pages"
+msgstr "Seiten"
+
+msgid "Liste des portes"
+msgstr "Liste der tür"
+
+msgid "Scenario:"
+msgstr "Szenario:"
+
+msgid "Sommaire"
+msgstr "Zusammenfassung"
+
+msgid "Remonter aux transferts"
+msgstr "Bis zu Transfers"
+
+msgid "Outil de sélection"
+msgstr ""
+
+msgid "Taille de mémoire dépassée. Ajoutez une limite aux calculs."
+msgstr "Speichergröße überschritten. Fügen Sie eine Grenze für die Berechnungen."
+
+msgid "Ouverture d'un projet FT9"
+msgstr "Projekt öffnen FT9"
+
+msgid "Logique"
+msgstr "Logik"
+
+msgid "Nettoyer le projet"
+msgstr "Saubere Projekt"
+
+msgid "Enregistrer le rapport"
+msgstr "Bericht speichern"
+
+msgid "RAW"
+msgstr "RAW"
+
+msgid "Rechercher"
+msgstr "Suche Nach"
+
+msgid "Rétablir"
+msgstr "Wiederherstellen"
+
+msgid "Résumé"
+msgstr "Zusammenfassung"
+
+msgid "Un nom est nécessaire pour un paramètre nommé."
+msgstr "Ein Name für einen benannten Parameter erforderlich."
+
+msgid "Temps de mission"
+msgstr "Gebrauchsdauer"
+
+msgid "Le fichier n'est pas de bon format."
+msgstr "Die Datei nicht in dem richtigen Format."
+
+msgid "Calculer"
+msgstr "Berechnen"
+
+msgid "Dissocier"
+msgstr "Trennen"
+
+msgid "Moteur de calculs par diagrammes de décision binaires"
+msgstr "Motorberechnungen pro binäre Entscheidungsdiagramme"
+
+msgid "Paramètres des évènements de base"
+msgstr "Parameter der Hauptereignisse"
+
+msgid "Arbre Analyste - version %s\n\nLogiciel d'analyse des performances de\nSûreté de fonctionnement par calculs\nd'arbres de défaillances\n\nwww.arbre-analyste.fr\n\nEmmanuel CLEMENT\n<emmanuel.clement.2012@utt.fr>"
+msgstr ""
+
+msgid "Lambda système"
+msgstr "Lambda-System"
+
+msgid "Limite des calculs non valide."
+msgstr "Grenze ungültigen Berechnungen."
+
+msgid "Module désinstallé."
+msgstr ""
+
+msgid "Gestion des paramètres nommés"
+msgstr "Verwaltung von benannten Parametern"
+
+msgid "Image GIF"
+msgstr "GIF-Bild"
+
+msgid "Faux"
+msgstr ""
+
+msgid "Ordre"
+msgstr "Bestellen"
+
+msgid "Facteur %i:"
+msgstr "Factor%i:"
+
+msgid "Limite"
+msgstr "Grenze"
+
+msgid "Rechercher:"
+msgstr "Suche Nach:"
+
+msgid "Dans le scénario '%s'\n\n"
+msgstr ""
+
+msgid "Suppr"
+msgstr ""
+
+msgid "Le tableau ci-après contient les 100 coupes les plus contributrices à l'évènement redouté."
+msgstr "Die folgende Tabelle enthält die 100 Mitwirkenden schneidet das gefürchtete Ereignis."
+
+msgid " - portes:\t\t\t%i"
+msgstr "- Anzahl der Türen:\t%i"
+
+msgid "GLM"
+msgstr ""
+
+msgid "Calculs XFTA"
+msgstr "XFTA Berechnungen"
+
+msgid "Ouvrir un arbre RiskSpectrum"
+msgstr "Öffnen RiskSpectrum Baum"
+
+msgid "[%s] -> le sélecteur actuel ne permet pas de modifier les liaisons entre élements."
+msgstr "[%s] -> das Stromschalter hat die Verbindungen zwischen Elementen nicht ändern."
+
+msgid "Projet"
+msgstr "Projekt"
+
+msgid "Configuration de l'importation:"
+msgstr "Konfiguration importieren:"
+
+msgid "Porte"
+msgstr "Tor"
+
+msgid "Exécuter"
+msgstr ""
+
+msgid "Informations générales"
+msgstr "Allgemeine Hinweise"
+
+msgid "Le tableau ci-après contient les facteurs d'importances de chacun des évènements de base contribuant à l'évènement redouté."
+msgstr "Die folgende Tabelle enthält die Größen jedes der grundlegenden Faktoren der Ereignisse, die zur gefürchteten Ereignis."
+
+msgid " - évènements de base:\t%i"
+msgstr "- Grund Veranstaltungen:\t%i"
+
+msgid "Des transferts pointent vers %i porte(s) sélectionnée(s).\n\nSouhaitez-vous continuer ?"
+msgstr ""
+
+msgid "Rapport formaté"
+msgstr "Formatted report"
+
+msgid "Souhaitez-vous désinstaller le module?"
+msgstr ""
+
+msgid "Enregistrer le document"
+msgstr "Speichern Sie das Dokument"
+
+msgid "Ce format vous permet d'importer dans un logiciel\nde type tableur l'ensemble des résultats des calculs."
+msgstr ""
+
+msgid "Un nom est nécessaire pour un scénario."
+msgstr "Ein Name ist für ein Szenario erforderlich."
+
+msgid "Souhaitez-vous supprimer définitivement le scénario?"
+msgstr "Möchten Sie das Skript dauerhaft zu entfernen?"
+
+msgid "Traitements automatisés"
+msgstr "Automatisierte Verarbeitung"
+
+msgid "Porte de tête inexistante."
+msgstr "Tür nicht vorhandenen Kopf."
+
+msgid "OU"
+msgstr ""
+
+msgid "Evenement maison"
+msgstr "Veranstaltungshaus"
+
+msgid "Formulaire de recherche"
+msgstr "Search Form"
+
+msgid "Facteurs d'importances"
+msgstr "Faktoren, Wichtigkeiten"
+
+msgid "Le tableau ci-après contient le nombre total de coupes par ordre."
+msgstr "Die folgende Tabelle enthält die Gesamtzahl der Schnitte pro Bestellung."
+
+msgid "Editer"
+msgstr "Bearbeiten"
+
+msgid "Date de modification:\t%s"
+msgstr "Änderungsdatum:\t\%s"
+
+msgid "Réduire"
+msgstr "Zurückschneiden"
+
+msgid "Pr|0"
+msgstr "Pr | 0"
+
+msgid "F"
+msgstr "F"
+
+msgid "Quel type de rapport souhaitez-vous ?"
+msgstr "Welche Art von Beziehung wünschen Sie?"
+
+msgid "Le tableau ci-après contient les évolutions du lambda système, de la fiabilité système ainsi que de la PFH système."
+msgstr "Die nachstehende Tabelle zeigt die Entwicklung der Systemzuverlässigkeit Lambda-System und dem System PFH."
+
+msgid "Indisponibilité"
+msgstr "Nichtverfügbarkeit"
+
+msgid "Scénarios"
+msgstr "Szenarien"
+
+msgid "Exportations graphiques"
+msgstr "Grafikexport"
+
+msgid "Calculs automatiques"
+msgstr "Automatische Berechnungen"
+
+msgid "Simulation de l'impact de la variation de la probabilité de chaque évènement de base"
+msgstr "Simulation der Auswirkung der Variation der Wahrscheinlichkeit der einzelnen Basisereignis"
+
+msgid "Type"
+msgstr "Art"
+
+msgid "Valeur:"
+msgstr "Wert:"
+
+msgid "Dans:"
+msgstr "In:"
+
+msgid "Générer le scénario"
+msgstr "Generieren Sie das Skript"
+
+msgid "Exporter au format Open-PSA compatible FT9"
+msgstr "Exportieren nach Öffnen-PSA-kompatiblen FT9 Größe"
+
+msgid "Simulation de l'impact de la variation de la probabilité des évènements de base"
+msgstr "Simulation der Auswirkung der Variation der Wahrscheinlichkeit des Basisereignisse"
+
+msgid "[%s] -> la loi '%s' est inconnue."
+msgstr "[%s] -> Law '%s' ist nicht bekannt."
+
+msgid "K/N"
+msgstr "K / N"
+
+msgid "[%s] -> le(s) élément(s) sélectionné(s) ne sont pas des évenements."
+msgstr "[%s] -> (n) Element (e) gewählt ist (n) sind keine Ereignisse."
+
+msgid "Importance"
+msgstr "Bedeutung"
+
+msgid "Annuler"
+msgstr "Rückgängig Machen"
+
+msgid "Créer le rapport"
+msgstr "Bericht erstellen"
+
+msgid "Image JPEG"
+msgstr "JPEG-Bild"
+
+msgid "Impossible d'installer le module."
+msgstr ""
+
+msgid "Gestion des causes communes de défaillances"
+msgstr "Verwaltung gemeinsamer Ursache"
+
+msgid "Positionner sur la hauteur"
+msgstr "Positionieren Sie die Höhe"
+
+msgid "Veuillez patienter, le calcul est en cours..."
+msgstr "Bitte warten Sie, die Berechnung läuft ..."
+
+msgid "Page %i/%i"
+msgstr "Seite %i/%i"
+
+msgid "Nom"
+msgstr "Name"
+
+msgid "Une porte de tête doit être sélectionnée"
+msgstr "Ein Kopf Tür muss sélectiobnnée werden"
+
+msgid "Ouvrir un projet FT9"
+msgstr "Öffnen FT9 Projekt"
+
+msgid "Exponentielle"
+msgstr ""
+
+msgid "Changement de nom"
+msgstr "Namensänderung"
+
+msgid "Temps de mission:"
+msgstr "Gebrauchsdauer:"
+
+msgid "Création d'un rapport"
+msgstr "Erstellen eines Berichts"
+
+msgid "Nettoyer"
+msgstr "Aufräumen"
+
+msgid "Entreprise:"
+msgstr "Firma:"
+
+msgid "Quitter"
+msgstr "Stehen Lassen"
+
+msgid "Gestion des scénarios"
+msgstr "Szenario-Management"
+
+msgid "Exporter au format Open-PSA Strict"
+msgstr "Exportieren nach Öffnen-PSA Strict Größe"
+
+msgid "Distribution"
+msgstr "Vertrieb"
+
+msgid "Intervalle de confiance:"
+msgstr "Konfidenzintervall:"
+
+msgid "probabilité"
+msgstr "Wahrscheinlichkeit"
+
+msgid "Open-PSA compatible GRIF"
+msgstr "Open-PSA-kompatiblen GRIF"
+
+msgid "Importer les pages:"
+msgstr "Import-Seiten:"
+
+msgid "Calcul exact"
+msgstr "Exakte Berechnung"
+
+msgid "Positionner automatiquement"
+msgstr "Automatische Position"
+
+msgid "Défiabilité"
+msgstr "Unzuverlässigkeit"
+
+msgid "La porte sélectionnée reste introuvable."
+msgstr "Die ausgewählte Träger ist nicht gefunden."
+
+msgid "Exportation graphique terminée."
+msgstr "Graphic Export abgeschlossen ist."
+
+msgid "Erreur de saisie."
+msgstr "Eingabefehler."
+
+msgid "Création d'un scénario"
+msgstr "Anfertigen eines Szenarios"
+
+msgid "Ce format vous permet de récupérer les résultats des\ncalculs formatés afin de les inclure dans un rapport."
+msgstr ""
+
+msgid "Taille de mémoire dépassée."
+msgstr "Speichergröße überschritten."
+
+msgid "Vrai"
+msgstr ""
+
+msgid "Ecraser si déjà existant"
+msgstr "Überschreiben, wenn bestehende"
+
+msgid "sojourn-time"
+msgstr "Aufenthaltszeit"
+
+msgid "Moteur de calculs MCEP"
+msgstr "Motorberechnungen MCEP"
+
+msgid "Erreur de saisie du paramètre K."
+msgstr "K. Parametereingabe Fehler"
+
+msgid "PFDavg"
+msgstr "PFDavg"
+
+msgid "Ouverture de projet"
+msgstr "Projekt öffnen"
+
+msgid "Temps de mission non valide."
+msgstr "Ungültige Missionszeit."
+
+msgid "   Nombre de pannes"
+msgstr "   Anzahl Ausfälle"
+
+msgid "Pr"
+msgstr "Pr"
+
+msgid "Edition des causes communes de défaillances"
+msgstr "Bearbeiten gemeinsamer Ursache"
+
+msgid "upper-bound"
+msgstr "Obergrenzen-"
+
+msgid "Destination:"
+msgstr "Wohnort:"
+
+msgid "Coller"
+msgstr "Paste"
+
+msgid "Version: %s"
+msgstr "Version: %s"
+
+msgid "Copier la liste dans le presse-papier"
+msgstr "Kopieren Sie die Liste in die Zwischenablage"
+
+msgid "CIF"
+msgstr "CIF"
+
+msgid "MTTR système:"
+msgstr "System MTTR"
+
+msgid "Description:"
+msgstr "Beschreibung:"
+
+msgid "Suppression de la page"
+msgstr "Seite entfernen"
+
+msgid "Une porte du même nom existe déjà."
+msgstr "Ein Tor mit dem gleichen Namen ist bereits vorhanden."
+
+msgid "Le tableau ci-après vous permet de calculer directement la nouvelle probabilité ainsi que la marge de chaque évènement de base en fonction d'un nouvel objectif à atteindre."
+msgstr "In der folgenden Tabelle können Sie direkt berechnen die neue Wahrscheinlichkeit und die Überschüsse in jedem Grund Ereignis auf der Grundlage einer neuen Ziel."
+
+msgid "Cette fenêtre vous permet de supprimer tous les paramètres\nnommés qui ne sont pas ou plus utilisés dans le projet."
+msgstr ""
+
+msgid "Un calcul est déjà en cours,\npatientez le temps que le premier calcul se termine."
+msgstr ""
+
+msgid "Module installé."
+msgstr ""
+
+msgid "Liste des causes communes"
+msgstr "Liste der häufigsten Ursachen"
+
+msgid "Constante"
+msgstr ""
+
+msgid "Le temps de mission doit être supérieur à 0."
+msgstr "Gebrauchsdauer muss größer als 0 sein."
+
+msgid "Créé le: %s"
+msgstr "Erstellt am: %s"
+
+msgid "Calcul ponctuel"
+msgstr "Punktberechnung"
+
+msgid "Suppression d'un paramètre nommé"
+msgstr "Löschen eines Parameters mit dem Namen"
+
+msgid "Générer des scénarios"
+msgstr "Gene Szenarien"
+
+msgid "Nouvelle page"
+msgstr "Neue Seite"
+
+msgid "Evènement"
+msgstr "Ereignis"
+
+msgid "Renommer automatiquement"
+msgstr "Benennen Sie automatisch"
+
+msgid "Calculs programmés"
+msgstr "Programmierte Berechnungen"
+
+msgid "Paramètres disponibles:"
+msgstr "Verfügbare Parameter:"
+
+msgid "date"
+msgstr "Datum"
+
+msgid "PFH"
+msgstr "PFH"
+
+msgid "Exporter graphiquement"
+msgstr "Export grafisch"
+
+msgid "Quantité"
+msgstr "Menge"
+
+msgid "HTML haute qualité"
+msgstr "Hochwertige HTML"
+
+msgid "Exportation graphique"
+msgstr "Grafik exportieren"
+
+msgid "Liste des évènements maisons"
+msgstr "Liste der Veranstaltungen Häuser"
+
+msgid "Exporter la liste"
+msgstr "Ausfuhrliste"
+
+msgid " - évènements maisons:\t%i"
+msgstr "- Veranstaltungen Heime:\t%i"
+
+msgid "Equi-répartir la marge"
+msgstr "Equi-Spread-Margin"
+
+msgid "Renommer les portes"
+msgstr "Benennen Sie die Türen"
+
+msgid "temps"
+msgstr ""
+
+msgid "DIF"
+msgstr "DIF"
+
+msgid "Ce nom est déjà utilisé."
+msgstr "Dieser Name wird bereits verwendet."
+
+msgid "Rendre tous les évènements de base réparables (Exponentielle->GLM)"
+msgstr "Nehmen Sie alle reparierbaren Grundereignisse (exponentiell> GLM)"
+
+msgid "Exporter au format Open-PSA compatible GRIF"
+msgstr "Exportieren nach Öffnen-PSA-Format kompatibel GRIF"
+
+msgid "Conserver si déjà existant"
+msgstr "Bewahren Sie, falls vorhanden"
+
+msgid "Edition"
+msgstr "Ausgabe"
+
+msgid "Résultats"
+msgstr "Ergebnisse"
+
+msgid "Suppression"
+msgstr "Unterdrückung"
+
+msgid "[%s] -> aucun élément sélectionné."
+msgstr "[%s] -> keine Elemente ausgewählt."
+
+msgid "Le fichier projet ne peut pas être ouvert.\nVous utilisez peut-être une version ancienne d'Arbre-Analyste.\nAllez sur www.arbre-analyste.fr pour télécharger librement une version plus récente."
+msgstr ""
+
+msgid "Défiabilité système"
+msgstr "Unzuverlässigkeit System"
+
+msgid "Vectoriel haute qualité"
+msgstr "Vector hohe Qualität"
+
+msgid "Auteur:"
+msgstr "Autor:"
+
+msgid "Importer les paramètres nommés:"
+msgstr "Import benannte Parameter:"
+
+msgid "Système réparable:"
+msgstr "Reparierbar System:"
+
+msgid "Distribution:"
+msgstr "Verteilung:"
+
+msgid "Ouvrir un arbre OpenPSA"
+msgstr "Öffnen OpenPSA Baum"
+
+msgid "À propos"
+msgstr "Über"
+
+msgid "Ouvrir un arbre Aralia"
+msgstr "Öffnen Aralia Baum"
+
+msgid "Porte supérieure:"
+msgstr "Obere Tür:"
+
+msgid "   MTBF système"
+msgstr "   MTBF-System"
+
+msgid "Images"
+msgstr "Metaphorik"
+
+msgid "Occurrences"
+msgstr "Vorkommen"
+
+msgid "Modules"
+msgstr ""
+
+msgid "Le nom d'un scénario doit êre précisé."
+msgstr "Der Name eines Szenarios müssen Era sagte."
+
+msgid "[%s] -> paramètre nommé de type %s inexistant."
+msgstr "[%s] -> Typparameter mit dem Namen%s nicht vorhanden."
+
+msgid "Facteur d'erreur:"
+msgstr "Fehlerfaktor:"
+
+msgid "Renommer"
+msgstr "Wieder ernennen"
+
+msgid "RS Sensibility"
+msgstr "RS Sensibility"
+
+msgid "Déployer le transfert"
+msgstr "Bereitstellen Transfer"
+
+msgid "Simulation de la marge de chaque évènement de base vis-à-vis d'un objectif"
+msgstr "Simulation des Randes eines jeden Grundereignis gegenüber einer Ziel"
+
+msgid " - transferts:\t\t%i"
+msgstr "- Transfers:\t\t%i"
+
+msgid "Probabilité:"
+msgstr "Wahrscheinlichkeit:"
+
+msgid "Limite:"
+msgstr "Limit:"
+
+msgid "Transferts"
+msgstr "Transfers"
+
+msgid "Convention de nommage incorrecte."
+msgstr "Falsche Namenskonvention."
+
+msgid "Tous les paramètres non utilisés ont été supprimés."
+msgstr "Nicht verwendete Parameter wurden entfernt."
+
+msgid "Rendre tous les évènements de base non réparables (GLM->Exponentielle)"
+msgstr "Stellen Sie alle irreparabel Grundereignisse (GLM> Exponential)"
+
+msgid "NON OU"
+msgstr ""
+
+msgid "Pr/PFD"
+msgstr "Pr / PFD"
+
+msgid "Rechercher des éléments"
+msgstr "Suche nach Artikeln"
+
+msgid "Projet FT9 (*.ft9x)"
+msgstr "Projekt FT9 (* .ft9x)"
+
+msgid "Calculs"
+msgstr "Berechnungen"
+
+msgid "Aller à la porte"
+msgstr "Zum Tür"
+
+msgid "ET"
+msgstr ""
+
+msgid "Nombre de pannes:"
+msgstr "Anzahl der Fehler:"
+
+msgid "Une cause commune du même nom existe déjà."
+msgstr "Eine häufige Ursache mit dem gleichen Namen ist bereits vorhanden."
+
+msgid "Nom de page"
+msgstr "Seitenname"
+
+msgid "Porte de tête:"
+msgstr "Haupttür:"
+
+msgid "Importer depuis un autre projet"
+msgstr "Import aus einem anderen Projekt"
+
+msgid "Gestion des paramètres"
+msgstr "Einstellungsverwaltung"
+
+msgid "Nom: %s"
+msgstr "Name: %s"
+
+msgid "Probabilités"
+msgstr "Wahrscheinlichkeiten"
+
+msgid "Paramètres généraux"
+msgstr "Allgemeine Einstellungen"
+
+msgid "Porte ET"
+msgstr ""
+
+msgid "Auteur"
+msgstr "Autor"
+
+msgid "Paramètres de la page"
+msgstr "Seite Optionen"
+
+msgid "Un calcul du même nom existe déjà"
+msgstr "Eine Berechnung mit dem gleichen Namen ist bereits vorhanden"
+
+msgid "Générer un rapport"
+msgstr "Bericht erstellen"
+
+msgid "Détacher"
+msgstr "Trennen"
+
+msgid "Réparable (TT)"
+msgstr ""
+
+msgid "Modification d'un scénario"
+msgstr "Bearbeiten eines Szenarios"
+
+msgid "Renommer des éléments:"
+msgstr "Benennen Sie Objekte:"
+
+msgid "Agrandir"
+msgstr "Vergrößern"
+
+msgid "K"
+msgstr "K"
+
+msgid "Zoom"
+msgstr "Zoom"
+
+msgid "Suppression d'un scénario"
+msgstr "Löschen eines Szenarios"
+
+msgid "Importer dans ce projet"
+msgstr "Importieren Sie das Projekt"
+
+msgid "Souhaitez-vous enregistrer le projet en cours avant de le quitter?"
+msgstr "Möchten Sie das aktuelle Projekt vor dem Verlassen speichern?"
+
+msgid "   MTTR système"
+msgstr "   MTTR System"
+
+msgid "Porte de tête"
+msgstr "Leiter Tür"
+
+msgid "Convention de nommage:"
+msgstr "Namenskonvention:"
+
+msgid "Liste des évènements de base"
+msgstr "Liste der grundlegenden Ereignisse"
+
+msgid "Open-PSA compatible SIMFIA"
+msgstr "Open-PSA-kompatiblen SIMFIA"
+
+msgid "Création du rapport terminée."
+msgstr "Erstellen Sie den Bericht fertig gestellt."
+
+msgid "Un nom est nécessaire pour la création d'une cause commune."
+msgstr "Ein Name wird für die Schaffung einer gemeinsamen Sache erforderlich."
+
+msgid "Statistiques"
+msgstr "Statistik"
+
+msgid "Temps"
+msgstr ""
+
+msgid "Analyse du niveau de confiance"
+msgstr "Vertrauen Analyse"
+
+msgid "Loi"
+msgstr "Gesetz"
+
+msgid "Projet RiskSpectrum (*.rsa)"
+msgstr "Projekt RiskSpectrum (* .rsa)"
+
+msgid "Il est très fortement recommandé de ne pas utiliser de caractères spéciaux dans les noms."
+msgstr "Es wird dringend empfohlen, keine Sonderzeichen im Namen."
+
+msgid "SIL"
+msgstr "SIL"
+
+msgid "Suppression de la cause commune"
+msgstr "Entfernen Sie die gemeinsame Sache"
+
+msgid "Sensibilité"
+msgstr "Empfindlichkeit"
+
+msgid "Evenements maisons"
+msgstr "Events Startseite"
+
+msgid "Nombre de pages:\t\t%i"
+msgstr "Seitenzahl:\t\%i"
+
+msgid "RRW"
+msgstr "RRW"
+
+msgid "Loi de probabilité:"
+msgstr "Gesetz der Wahrscheinlichkeit:"
+
+msgid "Analyse de sensibilité"
+msgstr "Sensitivitätsanalyse"
+
+msgid "Propriété de la page"
+msgstr "Eigenschaftenseite"
+
+msgid "Société"
+msgstr "Die Gesellschaft"
+
+msgid "Suppression d'éléments"
+msgstr "Entfernen von Objekten"
+
+msgid "Le modèle ne peut pas être calculé.\n\nCela peut être du à une boucle engendrée par un mauvais usage des transferts."
+msgstr ""
+
+msgid "Test périodique avancé"
+msgstr ""
+
+msgid "Porte K/N"
+msgstr ""
+
+msgid "Exécution terminée."
+msgstr "Ausführung abgeschlossen."
+
+msgid "Liste des calculs programmés"
+msgstr "Liste der programmierten Berechnungen"
+
+msgid "Paramètres de l'évenement"
+msgstr "Parameter des Ereignisses"
+
+msgid "Renommer les éléments"
+msgstr "Benennen Artikel"
+
+msgid "Moteur de calculs exacts - MCEP"
+msgstr "Motor genaue Berechnungen - MCEP"
+
+msgid "Format d'export:"
+msgstr "Export-Format:"
+
+msgid "Description"
+msgstr "Beschreibung"
+
+msgid "Nom:"
+msgstr "Name:"
+
+msgid "Exportation"
+msgstr "Export"
+
+msgid "Calcul en cours..."
+msgstr "Berechnung ..."
+
+msgid "Enregistrement du projet"
+msgstr "Anmeldung zum Projekt"
+
+msgid "ratio"
+msgstr "Verhältnis"
+
+msgid "Nom du calcul"
+msgstr "Name der Berechnungs"
+
+msgid "Souhaitez-vous supprimer ce calcul programmé ?"
+msgstr "Möchten Sie diese programmierte Berechnung zu entfernen?"
+
+msgid "Un scénario du même nom existe déjà."
+msgstr "Ein Szenario mit dem gleichen Namen ist bereits vorhanden."
+
+msgid "Moyenne:"
+msgstr "Durchschnitt:"
+
+msgid "[%s] -> aucun élement de sélectionné."
+msgstr "[%s] -> keine ausgewählte Element."
+
+msgid "Souhaitez-vous réellement supprimer la page et tous les éléments qui la composent ?"
+msgstr "Wollen Sie wirklich, um die Seite und alle Elemente, die sie zusammen löschen?"
+
+msgid "MTTF système"
+msgstr "MTTF System"
+
+msgid "Ouverture d'un arbre Open PSA"
+msgstr "Öffnen eines Öffnen PSA-Baum"
+
+msgid "[%s] -> la porte parent ne correspond pas."
+msgstr "[%s] -> Mutter Tür nicht übereinstimmt."
+
+msgid "MIF"
+msgstr "MIF"
+
+msgid "Weibull"
+msgstr ""
+
+msgid "Aide"
+msgstr "Hilfe"
+
+msgid "lower-bound"
+msgstr "untere Grenze"
+
+msgid "Attacher"
+msgstr "Krawatte"
+
+msgid "Nombre d'éléments:\t\t%i"
+msgstr "Anzahl der Einträge:\t\%i"
+
+msgid "Erreur"
+msgstr "Fehler"
+
+msgid "Paramètres"
+msgstr "Einstellungen"
+
+msgid "Coupes minimales"
+msgstr "Minimale Schnitte"
+
+msgid "Modifié le: %s"
+msgstr "Letzte Änderung: %s"
+
+msgid "[%s] -> une porte doit être renseignée."
+msgstr "[%s] -> eine Tür muss ausgefüllt werden."
+
+msgid "Version:"
+msgstr "Version:"
+
+msgid "Paramètre K:"
+msgstr "Parameter K:"
+
+msgid "Le tableau ci-après contient les paramètres de chacun des évènements de base participant à l'évènement redouté."
+msgstr "Die folgende Tabelle enthält die Einstellungen für jede der Hauptereignisse in die gefürchtete Ereignis beteiligt."
+
+msgid "[%s] -> la logique '%s' est inconnue."
+msgstr "[%s] -> Logik '%s' ist nicht bekannt."
+
+msgid "Nouveau nom"
+msgstr "Neuer Name"
+
+msgid "Porte par défaut"
+msgstr "Türstandard"
+
+msgid "Le formulaire ci-après vous permet de simuler dynamiquement l'impact du changement de la probabilité d'un évènement de base sur la probabilité de l'évènement redouté."
+msgstr "Das folgende Formular können Sie dynamisch simulieren die Auswirkungen der Veränderung der Wahrscheinlichkeit eines Ereignisses auf der Grundlage der Wahrscheinlichkeit, dass das gefürchtete Ereignis."
+
+msgid "Coupes les plus contributrices"
+msgstr "Beigesteuert die meisten Schnitte"
+
+msgid "Sélectionner toute la branche"
+msgstr "Wählen Sie eine Niederlassung"
+
+msgid "Exécution du scénario '%s'"
+msgstr "Die Ausführung des Skripts '%s'"
+
+msgid "Données"
+msgstr "Daten"
+
+msgid "Image PNG"
+msgstr "PNG-Bild"
+
+msgid "Le tableau ci-après contient les résultats de l'analyse de sensibilité permettant d'appréhender le niveau de confiance de la probabilité de l'évènement redouté."
+msgstr "Die folgende Tabelle enthält die Ergebnisse der Sensitivitätsanalyse, um das Maß an Vertrauen in die Wahrscheinlichkeit des gefürchteten Ereignis zu bewerten."
+
+msgid "Propriétés du projet"
+msgstr "Projekteigenschaften"
+
+msgid "Entrée"
+msgstr ""
+
+msgid "Probabilité"
+msgstr "Wahrscheinlichkeit"
+
+msgid "Importer"
+msgstr "Import"
+
+msgid "Copier dans le presse-papier"
+msgstr "In Zwischenablage kopieren"
+

@@ -1,0 +1,32 @@
+REGEDIT4
+
+; Active le lissage des polices (anti-aliasing type ClearType) dans Wine.
+; Sans ça, Wine rend les polices en bitmap crénelé -> texte "horrible".
+[HKEY_CURRENT_USER\Control Panel\Desktop]
+"FontSmoothing"="2"
+"FontSmoothingType"=dword:00000002
+"FontSmoothingGamma"=dword:00000578
+"FontSmoothingOrientation"=dword:00000001
+
+; Redirige les polices d'interface vers "DejaVu Sans". Raison : l'appli Tk demande
+; "Tahoma 8" ; or Tahoma (comme MS Sans Serif) embarque des BITMAPS à 8 pt que Wine
+; affiche crénelés (non lissables). DejaVu Sans n'a pas de bitmaps embarqués -> Wine
+; en rend un contour anti-aliasé. C'est ce qui rend le texte net.
+; Cible les polices croscore (Arimo=Arial, Tinos=Times, Cousine=Courier) : compatibles
+; métriques Windows (layout préservé) et SANS bitmaps embarqués -> anti-aliasées.
+; NB : Tk convertit lui-même "Helvetica"->"Arial" et "Courier"->"Courier New" avant
+; d'atteindre Wine ; on redirige donc aussi ces noms Windows.
+[HKEY_CURRENT_USER\Software\Wine\Fonts\Replacements]
+"Tahoma"="Arimo"
+"MS Sans Serif"="Arimo"
+"MS Shell Dlg"="Arimo"
+"MS Shell Dlg 2"="Arimo"
+"System"="Arimo"
+"Helvetica"="Arimo"
+"Arial"="Arimo"
+"Small Fonts"="Arimo"
+"Times New Roman"="Tinos"
+"Times"="Tinos"
+"Courier New"="Cousine"
+"Courier"="Cousine"
+"Fixedsys"="Cousine"

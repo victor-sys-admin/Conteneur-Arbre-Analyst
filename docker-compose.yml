@@ -1,0 +1,16 @@
+# Utilisation : ./run.sh up   (configure XQuartz automatiquement puis lance)
+# ou directement : podman compose up   (XQuartz doit déjà écouter en TCP)
+services:
+  arbre-analyst:
+    build: .
+    image: localhost/arbre-analyst:3.1.0
+    container_name: arbre-analyst
+    environment:
+      # macOS + XQuartz : la GUI est envoyée au serveur X de l'hôte.
+      DISPLAY: "${DISPLAY_TARGET:-host.docker.internal:0}"
+    volumes:
+      # Persistance : les analyses sauvegardées dans « Mes documents » atterrissent ici,
+      # dans le dossier ./analyses de ce dépôt (sur le Mac).
+      - ./analyses:/data
+    stdin_open: true
+    tty: true
